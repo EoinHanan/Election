@@ -8,7 +8,6 @@ public class Constituency {
     private int electorate2016;
     private int poll2016;
     private int spoiled2016;
-    Candidate candidates;
 
     Constituency(String name, int candidatesNumber, int seats,int electorate ,int poll, int spoiled){
         this.name = name;

@@ -38,7 +38,7 @@ public class ConstituencyReader extends Reader {
     }
 
     public void printAll(){
-        System.out.println("Name\tSeats\tCandidates\tElectorate\tPoll\tSpoiled");
+        System.out.println("Number\tSeats\tCandidates\tElectorate\tPoll\tSpoiled\t\tName");
         for (int i =0;i < constituencies.size();i++)
             System.out.println(i + 1 + "\t\t" +
                             constituencies.get(i).getSeats() + "\t\t" +
@@ -46,7 +46,18 @@ public class ConstituencyReader extends Reader {
                             constituencies.get(i).getElectorate2016() + "\t\t" +
                             constituencies.get(i).getPoll2016() + "\t\t" +
                             constituencies.get(i).getSpoiled2016() + "\t\t" +
-                            constituencies.get(i).getName() + "\t\t");}
+                            constituencies.get(i).getName() + "\t\t");
+    }
 
+    public ArrayList<Constituency> giveList(){
+        return constituencies;
+    }
+
+    public String[] giveConList(){
+        String[] conList = new String[constituencies.size()];
+        for (int i =0;i < conList.length;i++)
+            conList[i] = constituencies.get(i).getName();
+        return conList;
+    }
 
 }

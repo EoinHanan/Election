@@ -1,9 +1,59 @@
+import javax.swing.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /**
  * Created by EoinH on 15/05/2017.
  */
 public class CandidateReader extends Reader {
+    private File file;
+    private Scanner in;
+    private ArrayList <Candidate> candidates;
+    CandidateReader(String name) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
+        file = new File (name +".csv");
+        String line;
+        String[] elements;
+        Constituency constituency;
+        candidates = new ArrayList<Candidate>();
 
-    CandidateReader(){
-
+        if (file.exists()) {
+            System.out.println("Inside file");
+            in = new Scanner(file);
+            in.useDelimiter(";");
+            int i =0;
+            while (in.hasNextLine()){
+                line = in.nextLine();
+                elements = line.split(";");
+                candidates.add(new Candidate(i,elements[0],elements[1],elements[2],elements[3],Integer.parseInt(elements[4])));
+                i++;
+                //System.out.println(line);
+            }
+            in.close();
+        }
+        else
+            System.out.println(name + " does not exist");
+    }
+    public void printAll(){
+        System.out.println("conID\tcanID\tpid\tName\tConstituency\tParty\tGender\tvotes");
+        for (int i =0;i < candidates.size();i++)
+            System.out.println(candidates.get(i).getCanid() + "\t\t" +
+                    candidates.get(i).getConid() + "\t\t" +
+                    candidates.get(i).getPid() + "\t\t" +
+                    candidates.get(i).getName() + "\t\t" +
+                    candidates.get(i).getConstituency() + "\t\t\t" +
+                    candidates.get(i).getParty() + "\t\t\t" +
+                    candidates.get(i).getGender() + "\t\t" +
+                    candidates.get(i).getVotes());
+    }
+    public ArrayList<Candidate> giveList(){
+        return candidates;
+    }
+    public void setIDs(String partyList[], String constituencyList[]){
+        for(int i =0;i < candidates.size();i++) {
+            candidates.get(i).setConid(constituencyList);
+            candidates.get(i).setPid(partyList);
+        }
     }
 }

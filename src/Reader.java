@@ -16,7 +16,4 @@ public abstract class Reader {
         file = new File (name + ".csv");
         in = new Scanner(file);
     }
-    public void read() {
-
-    }
 }

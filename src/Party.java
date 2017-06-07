@@ -1,22 +1,16 @@
-/**
- * Created by EoinH on 15/05/2017.
- */
 public class Party {
-
     private String name;
-    private double percent2016;
-    private double percentagePredicted;
-    private int votes2016;
-    private int votesPredicted;
+    private int pid;
+    private String abbreviation;
 
-    Party(String name, int votes2016)
+    Party(int pid, String name, String abbreviation)
     {
         this.name = name;
-        this.votes2016 = votes2016;
+        this.pid = pid;
+        this.abbreviation = abbreviation;
     }
 
-    public String getName()
-    {
-        return name;
-    };
+    public String getName()    {        return name;    }
+    public int getPid(){return pid;}
+    public String getAbbreviation (){return abbreviation;}
 }
