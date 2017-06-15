@@ -50,7 +50,7 @@ public class PartyReader extends Reader {
     }
 
 
-    public ArrayList<Party> giveList(){
+    public ArrayList<Party> give(){
         return parties;
     }
 }
