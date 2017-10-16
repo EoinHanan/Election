@@ -1,7 +1,15 @@
-import com.sun.prism.shader.DrawRoundRect_RadialGradient_PAD_AlphaTest_Loader;
+import Objects.Candidate;
+import Objects.Constituency;
+import Objects.Party;
+import Objects.Round;
+import Reader.CandidateReader;
+import Reader.ConstituencyReader;
+import Reader.PartyReader;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+
+import Reader.RoundReader;
 
 /**
  * Created by EoinH on 15/05/2017.
@@ -9,21 +17,24 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String args[]) throws FileNotFoundException {
         PartyReader partyReader = new PartyReader("Data/PartyDetails");
-        //partyReader.printAll();
         String[] partyList = partyReader.givePartyList();
+        ArrayList<Party> parties= partyReader.give();
 
         ConstituencyReader conReader = new ConstituencyReader("Data/ConstDetails");
-        //conReader.printAll();
         String[] conList = conReader.giveConList();
-        ArrayList<Constituency> constituency = conReader.giveList();
+        ArrayList<Constituency> constituencies = conReader.give();
 
         CandidateReader canReader = new CandidateReader("Data/CandidateDetails");
         canReader.setIDs(partyList,conList);
-        canReader.printAll();
-        ArrayList<Constituency> candidates = conReader.giveList();
+        ArrayList<Candidate> candidates = canReader.giveList();
+        String[] canList = canReader.give();
 
         RoundReader roundReader = new RoundReader("Data/CountDetails", 2016);
+        roundReader.setIDs( conList,canList);
+        roundReader.printAll();
+        ArrayList<Round> rounds = roundReader.give();
 
+        Calculator calculator = new PercentageCalculator(candidates,constituencies,parties, rounds);
 
     }
 }

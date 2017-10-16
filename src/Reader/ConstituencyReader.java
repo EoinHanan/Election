@@ -1,7 +1,11 @@
+package Reader;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import Objects.Constituency;
 
 /**
  * Created by EoinH on 15/05/2017.
@@ -12,7 +16,7 @@ public class ConstituencyReader extends Reader {
     private Scanner in;
     private ArrayList<Constituency> constituencies;
 
-    ConstituencyReader(String name) throws FileNotFoundException {
+    public ConstituencyReader(String name) throws FileNotFoundException {
         file = new File (name +".csv");
         String line;
         String[] elements;
@@ -49,7 +53,7 @@ public class ConstituencyReader extends Reader {
                             constituencies.get(i).getName() + "\t\t");
     }
 
-    public ArrayList<Constituency> giveList(){
+    public ArrayList<Constituency> give(){
         return constituencies;
     }
 

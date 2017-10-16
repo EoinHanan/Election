@@ -1,3 +1,8 @@
+package Reader;
+
+import Objects.Constituency;
+import Objects.Round;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -35,25 +40,24 @@ public class RoundReader {
             System.out.println(name + " does not exist");
     }
     public void printAll(){
-        System.out.println("ID\tEID\tConstituency\tParty\tGender\tvotes");
+        System.out.println("ID\tEID\tconID\tcanID\tObjects.Constituency\tObjects.Party\tGender\tvotes");
         for (int i =0;i < rounds.size();i++)
             System.out.println(rounds.get(i).getRid() + "\t\t" +
                     rounds.get(i).getEid() + "\t\t" +
+                    rounds.get(i).getCanid() + "\t\t" +
+                    rounds.get(i).getConid() + "\t\t" +
                     rounds.get(i).getConstituency() + "\t\t\t"+
                     rounds.get(i).getCandidate() + "\t\t" +
                     rounds.get(i).isElected() + "\t\t" +
                     rounds.get(i).getVotes() + "\t\t");
     }
-/*
-    public String[] givePartyList (){
-        String [] list = new String[parties.size()];
-        for (int i =0; i < list.length;i++)
-            list[i]=parties.get(i).getAbbreviation();
-        return list;
+    public void setIDs (String [] conList, String[]canList){
+        for(int i =0;i < rounds.size();i++) {
+            rounds.get(i).setConid(conList);
+            rounds.get(i).setCanid(canList);
+        }
     }
-
-
-    public ArrayList<Party> giveList(){
-        return parties;
-    }*/
+    public ArrayList<Round> give(){
+        return rounds;
+    }
 }

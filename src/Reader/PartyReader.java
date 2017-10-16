@@ -1,8 +1,12 @@
+package Reader;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import Objects.Constituency;
+import Objects.Party;
 /**
  * Created by EoinH on 04/06/2017.
  */
@@ -10,7 +14,8 @@ public class PartyReader extends Reader {
     private File file;
     private Scanner in;
     private ArrayList<Party> parties;
-    PartyReader(String name) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
+
+    public PartyReader(String name) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
         file = new File (name +".csv");
         String line;
         String[] elements;
@@ -35,7 +40,7 @@ public class PartyReader extends Reader {
             System.out.println(name + " does not exist");
     }
     public void printAll(){
-        System.out.println("ID\tName\tConstituency\tParty\tGender\tvotes");
+        System.out.println("ID\tName\tObjects.Constituency\tObjects.Party\tGender\tvotes");
         for (int i =0;i < parties.size();i++)
             System.out.println(parties.get(i).getPid() + "\t\t" +
                     parties.get(i).getName() + "\t\t" +

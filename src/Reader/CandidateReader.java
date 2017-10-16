@@ -1,8 +1,11 @@
-import javax.swing.*;
+package Reader;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import Objects.Constituency;
+import Objects.Candidate;
 
 /**
  * Created by EoinH on 15/05/2017.
@@ -11,7 +14,8 @@ public class CandidateReader extends Reader {
     private File file;
     private Scanner in;
     private ArrayList <Candidate> candidates;
-    CandidateReader(String name) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
+
+    public CandidateReader(String name) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
         file = new File (name +".csv");
         String line;
         String[] elements;
@@ -36,7 +40,7 @@ public class CandidateReader extends Reader {
             System.out.println(name + " does not exist");
     }
     public void printAll(){
-        System.out.println("conID\tcanID\tpid\tName\tConstituency\tParty\tGender\tvotes");
+        System.out.println("conID\tcanID\tpid\tName\tObjects.Constituency\tObjects.Party\tGender\tvotes");
         for (int i =0;i < candidates.size();i++)
             System.out.println(candidates.get(i).getCanid() + "\t\t" +
                     candidates.get(i).getConid() + "\t\t" +
@@ -50,10 +54,18 @@ public class CandidateReader extends Reader {
     public ArrayList<Candidate> giveList(){
         return candidates;
     }
+
     public void setIDs(String partyList[], String constituencyList[]){
         for(int i =0;i < candidates.size();i++) {
             candidates.get(i).setConid(constituencyList);
             candidates.get(i).setPid(partyList);
         }
+    }
+
+    public String[] give(){
+        String[] canList = new String[candidates.size()];
+        for (int i =0;i < canList.length;i++)
+            canList[i] = candidates.get(i).getName();
+        return canList;
     }
 }
