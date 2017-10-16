@@ -1,4 +1,6 @@
-import java.util.List;
+package Objects;
+
+import java.util.ArrayList;
 
 /**
  * Created by EoinH on 15/05/2017.
@@ -12,8 +14,9 @@ public class Candidate {
     private int canid;
     private int conid;
     private int pid;
+    private ArrayList <Transfer> transfers;
 
-    Candidate(int canid, String constituency, String name, String gender, String party,int votes){
+    public Candidate(int canid, String constituency, String name, String gender, String party,int votes){
         this.canid =canid;
         this.name = name;
         this.constituency = constituency;

@@ -1,3 +1,5 @@
+package Objects;
+
 /**
  * Created by EoinH on 15/05/2017.
  */
@@ -9,7 +11,7 @@ public class Constituency {
     private int poll2016;
     private int spoiled2016;
 
-    Constituency(String name, int candidatesNumber, int seats,int electorate ,int poll, int spoiled){
+    public Constituency(String name, int candidatesNumber, int seats,int electorate ,int poll, int spoiled){
         this.name = name;
         this.candidatesNumber = candidatesNumber;
         this.seats = seats;

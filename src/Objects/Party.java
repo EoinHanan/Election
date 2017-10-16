@@ -1,9 +1,11 @@
+package Objects;
+
 public class Party {
     private String name;
     private int pid;
     private String abbreviation;
 
-    Party(int pid, String name, String abbreviation)
+    public Party(int pid, String name, String abbreviation)
     {
         this.name = name;
         this.pid = pid;

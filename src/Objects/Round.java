@@ -1,3 +1,5 @@
+package Objects;
+
 /**
  * Created by EoinH on 05/06/2017.
  */
@@ -12,7 +14,7 @@ public class Round {
     boolean elected;
     int votes;
 
-    Round(int rid, int eid, String constituency, String candidate,boolean elected,int number,int votes){
+    public Round(int rid, int eid, String constituency, String candidate,boolean elected,int number,int votes){
         this.number = number;
         this.rid = rid;
         this.eid = eid;
@@ -21,7 +23,7 @@ public class Round {
         this.constituency =constituency;
         this.votes = votes;
     }
-    public void setConid (String constituencies[], String candidates[]){
+    public void setConid (String constituencies[]){
         int id =0;
         boolean found = false;
         for (int i =0;i < constituencies.length && !found;i++) {
@@ -29,10 +31,8 @@ public class Round {
                 found = true;
                 id = i;
             }
-            System.out.println(constituency + " Eqauls " + constituencies[i] + " : " + found);
         }
         conid = id;
-        System.out.println(conid);
     }
 
     public void setCanid(String [] candidates){
@@ -43,10 +43,8 @@ public class Round {
                 found = true;
                 id = i;
             }
-            System.out.println(candidates + " Eqauls " + candidates[i] + " : " + found);
         }
-        conid = id;
-        System.out.println(conid);
+        canid = id;
     }
 
     public int getRid(){return rid;}
