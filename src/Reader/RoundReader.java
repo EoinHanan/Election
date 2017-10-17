@@ -15,7 +15,8 @@ public class RoundReader {
     private File file;
     private Scanner in;
     private ArrayList<Round> rounds;
-    RoundReader(String name, int election) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
+
+    public RoundReader(String name, int election) throws FileNotFoundException, ArrayIndexOutOfBoundsException {
         file = new File(name + ".csv");
 
         String line;
@@ -31,7 +32,7 @@ public class RoundReader {
             while (in.hasNextLine()) {
                 line = in.nextLine();
                 elements = line.split(";");
-                rounds.add(new Round(i, election, elements[0], elements[1],elements[2].equals("Elected"),Integer.parseInt(elements[3]),Integer.parseInt(elements[4])));
+                rounds.add(new Round(i, election, elements[0], elements[1],elements[2],Integer.parseInt(elements[3]),Integer.parseInt(elements[4])));
                 i++;
                 //System.out.println(line);
             }
@@ -48,7 +49,7 @@ public class RoundReader {
                     rounds.get(i).getConid() + "\t\t" +
                     rounds.get(i).getConstituency() + "\t\t\t"+
                     rounds.get(i).getCandidate() + "\t\t" +
-                    rounds.get(i).isElected() + "\t\t" +
+                    rounds.get(i).getStatus() + "\t\t" +
                     rounds.get(i).getVotes() + "\t\t");
     }
     public void setIDs (String [] conList, String[]canList){

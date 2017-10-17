@@ -1,4 +1,5 @@
-Constituency Name,Candidate surname,Candidate First Name,Result,Count Number,Non_Transferable,Occurred On Count,Required To Reach Quota,Required To Save Deposit,Transfers,Votes,Total Votes,Constituency Number,Candidate Id
+Objects.Constituency Name,Candidate surname,Candidate First Name,Result,Count Number,Non_Transferable,Occurred On Count,
+Required To Reach Quota,Required To Save Deposit,Transfers,Votes,Total Votes,Constituency Number,Candidate Id
 Louth,Adams,Gerry,,1,0,0,594,0,0,10661,10661,31,160
 Louth,Adams,Gerry,,2,0,0,481,0,113,10661,10774,31,160
 Louth,Adams,Gerry,,3,0,0,429,0,52,10661,10826,31,160
@@ -41,13 +42,13 @@ Dublin Mid West,Akpoveta,Patrick,Excluded,8,0,6,0,1813,0,288,0,643,187
 Dublin Mid West,Akpoveta,Patrick,Excluded,9,0,6,0,1813,0,288,0,643,187
 Dublin Mid West,Akpoveta,Patrick,Excluded,10,0,6,0,1813,0,288,0,643,187
 Dublin Mid West,Akpoveta,Patrick,Excluded,11,0,6,0,1813,0,288,0,643,187
-Tipperary,Ambrose,Siobhán,Excluded,7,0,3,0,0,0,4472,0,36,160
-Tipperary,Ambrose,Siobhán,,1,0,0,8520,0,0,4472,4472,36,160
-Tipperary,Ambrose,Siobhán,,2,0,0,8305,0,215,4472,4687,36,160
-Tipperary,Ambrose,Siobhán,Excluded,5,0,3,0,0,0,4472,0,36,160
-Tipperary,Ambrose,Siobhán,Excluded,6,0,3,0,0,0,4472,0,36,160
-Tipperary,Ambrose,Siobhán,Excluded,3,0,3,0,0,-4687,4472,0,36,160
-Tipperary,Ambrose,Siobhán,Excluded,4,0,3,0,0,0,4472,0,36,160
+Tipperary,Ambrose,Siobhï¿½n,Excluded,7,0,3,0,0,0,4472,0,36,160
+Tipperary,Ambrose,Siobhï¿½n,,1,0,0,8520,0,0,4472,4472,36,160
+Tipperary,Ambrose,Siobhï¿½n,,2,0,0,8305,0,215,4472,4687,36,160
+Tipperary,Ambrose,Siobhï¿½n,Excluded,5,0,3,0,0,0,4472,0,36,160
+Tipperary,Ambrose,Siobhï¿½n,Excluded,6,0,3,0,0,0,4472,0,36,160
+Tipperary,Ambrose,Siobhï¿½n,Excluded,3,0,3,0,0,-4687,4472,0,36,160
+Tipperary,Ambrose,Siobhï¿½n,Excluded,4,0,3,0,0,0,4472,0,36,160
 Dublin Bay South,Andrews,Chris,,5,0,0,3053,0,377,3774,4888,17,174
 Dublin Bay South,Andrews,Chris,,1,0,0,4167,0,0,3774,3774,17,174
 Dublin Bay South,Andrews,Chris,,2,0,0,4145,0,22,3774,3796,17,174
@@ -78,13 +79,13 @@ Carlow Kilkenny,Aylward,Bobby,,7,0,0,1713,0,153,9366,9956,1,160
 Carlow Kilkenny,Aylward,Bobby,,8,0,0,1639,0,74,9366,10030,1,160
 Carlow Kilkenny,Aylward,Bobby,,9,0,0,1035,0,604,9366,10634,1,160
 Carlow Kilkenny,Aylward,Bobby,,10,0,0,592,0,443,9366,11077,1,160
-Dún Laoghaire,Bailey,Maria,,1,0,0,4321,0,0,10489,10489,21,232
-Dún Laoghaire,Bailey,Maria,,2,0,0,3928,0,393,10489,10882,21,232
-Dún Laoghaire,Bailey,Maria,,3,0,0,3876,0,52,10489,10934,21,232
-Dún Laoghaire,Bailey,Maria,,4,0,0,3540,0,336,10489,11270,21,232
-Dún Laoghaire,Bailey,Maria,,5,0,0,2956,0,584,10489,11854,21,232
-Dún Laoghaire,Bailey,Maria,,6,0,0,2388,0,568,10489,12422,21,232
-Dún Laoghaire,Bailey,Maria,Elected,7,0,7,0,0,2776,10489,15198,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,1,0,0,4321,0,0,10489,10489,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,2,0,0,3928,0,393,10489,10882,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,3,0,0,3876,0,52,10489,10934,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,4,0,0,3540,0,336,10489,11270,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,5,0,0,2956,0,584,10489,11854,21,232
+Dï¿½n Laoghaire,Bailey,Maria,,6,0,0,2388,0,568,10489,12422,21,232
+Dï¿½n Laoghaire,Bailey,Maria,Elected,7,0,7,0,0,2776,10489,15198,21,232
 Longford Westmeath,Bannon,James,,1,0,0,6411,0,0,4639,4639,30,227
 Longford Westmeath,Bannon,James,,2,0,0,6401,0,10,4639,4649,30,227
 Longford Westmeath,Bannon,James,,6,0,0,6388,0,3,4639,4662,30,227
@@ -173,13 +174,13 @@ Offaly,Bopp,Kate,Excluded,4,0,3,0,2199,0,549,0,37,161
 Offaly,Bopp,Kate,Excluded,5,0,3,0,2199,0,549,0,37,161
 Offaly,Bopp,Kate,Excluded,6,0,3,0,2199,0,549,0,37,161
 Offaly,Bopp,Kate,Excluded,7,0,3,0,2199,0,549,0,37,161
-Dún Laoghaire,Boyd Barrett,Richard,,1,0,0,5035,0,0,9775,9775,21,233
-Dún Laoghaire,Boyd Barrett,Richard,,2,0,0,4802,0,233,9775,10008,21,233
-Dún Laoghaire,Boyd Barrett,Richard,,3,0,0,2595,0,2207,9775,12215,21,233
-Dún Laoghaire,Boyd Barrett,Richard,,4,0,0,1523,0,1072,9775,13287,21,233
-Dún Laoghaire,Boyd Barrett,Richard,,5,0,0,49,0,1474,9775,14761,21,233
-Dún Laoghaire,Boyd Barrett,Richard,Elected,6,0,6,0,0,957,9775,15718,21,233
-Dún Laoghaire,Boyd Barrett,Richard,Elected,7,0,6,0,0,0,9775,15718,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,,1,0,0,5035,0,0,9775,9775,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,,2,0,0,4802,0,233,9775,10008,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,,3,0,0,2595,0,2207,9775,12215,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,,4,0,0,1523,0,1072,9775,13287,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,,5,0,0,49,0,1474,9775,14761,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,Elected,6,0,6,0,0,957,9775,15718,21,233
+Dï¿½n Laoghaire,Boyd Barrett,Richard,Elected,7,0,6,0,0,0,9775,15718,21,233
 Cork East,Bradford,Paul,,1,0,0,7318,0,0,3244,3244,4,164
 Cork East,Bradford,Paul,,2,0,0,7235,0,83,3244,3327,4,164
 Cork East,Bradford,Paul,Excluded,10,0,8,0,0,0,3244,0,4,164
@@ -549,20 +550,20 @@ Mayo,Calleary,Dara,,2,0,0,3313,0,15,9402,9417,32,160
 Mayo,Calleary,Dara,,3,0,0,3311,0,2,9402,9419,32,160
 Mayo,Calleary,Dara,,4,0,0,3298,0,13,9402,9432,32,160
 Mayo,Calleary,Dara,,5,0,0,3289,0,9,9402,9441,32,160
-Galway East,Canney,Seán,Elected,6,0,6,0,0,1738,8447,12707,22,160
-Galway East,Canney,Seán,Elected,7,1009,6,0,0,-1397,8447,11310,22,160
-Galway East,Canney,Seán,,4,0,0,1114,0,1124,8447,10196,22,160
-Galway East,Canney,Seán,,5,0,0,341,0,773,8447,10969,22,160
-Galway East,Canney,Seán,,1,0,0,2863,0,0,8447,8447,22,160
-Galway East,Canney,Seán,,2,0,0,2597,0,266,8447,8713,22,160
-Galway East,Canney,Seán,,3,0,0,2238,0,359,8447,9072,22,160
-Galway East,Cannon,Ciarán,,6,0,0,1390,0,401,7123,9920,22,161
-Galway East,Cannon,Ciarán,Elected,7,0,7,1153,0,237,7123,10157,22,161
-Galway East,Cannon,Ciarán,,4,0,0,3498,0,162,7123,7812,22,161
-Galway East,Cannon,Ciarán,,5,0,0,1791,0,1707,7123,9519,22,161
-Galway East,Cannon,Ciarán,,1,0,0,4187,0,0,7123,7123,22,161
-Galway East,Cannon,Ciarán,,2,0,0,4090,0,97,7123,7220,22,161
-Galway East,Cannon,Ciarán,,3,0,0,3660,0,430,7123,7650,22,161
+Galway East,Canney,Seï¿½n,Elected,6,0,6,0,0,1738,8447,12707,22,160
+Galway East,Canney,Seï¿½n,Elected,7,1009,6,0,0,-1397,8447,11310,22,160
+Galway East,Canney,Seï¿½n,,4,0,0,1114,0,1124,8447,10196,22,160
+Galway East,Canney,Seï¿½n,,5,0,0,341,0,773,8447,10969,22,160
+Galway East,Canney,Seï¿½n,,1,0,0,2863,0,0,8447,8447,22,160
+Galway East,Canney,Seï¿½n,,2,0,0,2597,0,266,8447,8713,22,160
+Galway East,Canney,Seï¿½n,,3,0,0,2238,0,359,8447,9072,22,160
+Galway East,Cannon,Ciarï¿½n,,6,0,0,1390,0,401,7123,9920,22,161
+Galway East,Cannon,Ciarï¿½n,Elected,7,0,7,1153,0,237,7123,10157,22,161
+Galway East,Cannon,Ciarï¿½n,,4,0,0,3498,0,162,7123,7812,22,161
+Galway East,Cannon,Ciarï¿½n,,5,0,0,1791,0,1707,7123,9519,22,161
+Galway East,Cannon,Ciarï¿½n,,1,0,0,4187,0,0,7123,7123,22,161
+Galway East,Cannon,Ciarï¿½n,,2,0,0,4090,0,97,7123,7220,22,161
+Galway East,Cannon,Ciarï¿½n,,3,0,0,3660,0,430,7123,7650,22,161
 Cork East,Cannon,Ross,,1,0,0,10415,2494,0,147,147,4,197
 Cork East,Cannon,Ross,Excluded,10,0,2,0,2494,0,147,0,4,197
 Cork East,Cannon,Ross,Excluded,2,0,2,0,2494,-147,147,0,4,197
@@ -703,20 +704,20 @@ Dublin Fingal,Clifford-Lee,Lorraine,,7,0,0,5360,0,366,3359,4705,14,160
 Dublin Fingal,Clifford-Lee,Lorraine,,8,0,0,4966,0,394,3359,5099,14,160
 Dublin Fingal,Clifford-Lee,Lorraine,,9,0,0,4470,0,496,3359,5595,14,160
 Dublin Fingal,Clifford-Lee,Lorraine,Excluded,10,0,10,0,0,-5595,3359,0,14,160
-Galway West,Clochartaigh,Trevor Ó,,1,0,0,4957,0,0,5755,5755,23,161
-Galway West,Clochartaigh,Trevor Ó,,2,0,0,4924,0,33,5755,5788,23,161
-Galway West,Clochartaigh,Trevor Ó,,3,0,0,4897,0,27,5755,5815,23,161
-Galway West,Clochartaigh,Trevor Ó,,9,0,0,3991,0,60,5755,6721,23,161
-Galway West,Clochartaigh,Trevor Ó,,10,0,0,3879,0,112,5755,6833,23,161
-Galway West,Clochartaigh,Trevor Ó,,4,0,0,4695,0,202,5755,6017,23,161
-Galway West,Clochartaigh,Trevor Ó,,5,0,0,4604,0,91,5755,6108,23,161
-Galway West,Clochartaigh,Trevor Ó,,11,0,0,3866,0,13,5755,6846,23,161
-Galway West,Clochartaigh,Trevor Ó,,6,0,0,4550,0,54,5755,6162,23,161
-Galway West,Clochartaigh,Trevor Ó,,7,0,0,4451,0,99,5755,6261,23,161
-Galway West,Clochartaigh,Trevor Ó,,12,0,0,3244,0,622,5755,7468,23,161
-Galway West,Clochartaigh,Trevor Ó,,8,0,0,4051,0,400,5755,6661,23,161
-Galway West,Clochartaigh,Trevor Ó,,13,0,0,2801,0,443,5755,7911,23,161
-Galway West,Clochartaigh,Trevor Ó,,14,0,14,2635,0,166,5755,8077,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,1,0,0,4957,0,0,5755,5755,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,2,0,0,4924,0,33,5755,5788,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,3,0,0,4897,0,27,5755,5815,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,9,0,0,3991,0,60,5755,6721,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,10,0,0,3879,0,112,5755,6833,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,4,0,0,4695,0,202,5755,6017,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,5,0,0,4604,0,91,5755,6108,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,11,0,0,3866,0,13,5755,6846,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,6,0,0,4550,0,54,5755,6162,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,7,0,0,4451,0,99,5755,6261,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,12,0,0,3244,0,622,5755,7468,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,8,0,0,4051,0,400,5755,6661,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,13,0,0,2801,0,443,5755,7911,23,161
+Galway West,Clochartaigh,Trevor ï¿½,,14,0,14,2635,0,166,5755,8077,23,161
 Louth,Coffey,Emma,,1,0,0,7833,0,0,3422,3422,31,164
 Louth,Coffey,Emma,,2,0,0,7813,0,20,3422,3442,31,164
 Louth,Coffey,Emma,,3,0,0,7759,0,54,3422,3496,31,164
@@ -762,15 +763,15 @@ Clare,Colleran-Molloy,Clare,,3,0,0,8704,154,24,2639,2697,3,163
 Clare,Colleran-Molloy,Clare,Excluded,8,0,7,0,0,0,2639,0,3,163
 Clare,Colleran-Molloy,Clare,Excluded,9,0,7,0,0,0,2639,0,3,163
 Clare,Colleran-Molloy,Clare,,6,0,0,8521,0,56,2639,2880,3,163
-Cork North West,Collins,Áine Collins,,1,0,0,5503,0,0,6237,6237,6,179
-Cork North West,Collins,Áine Collins,,2,0,0,5443,0,60,6237,6297,6,179
-Cork North West,Collins,Áine Collins,,3,0,0,5245,0,198,6237,6495,6,179
-Cork North West,Collins,Áine Collins,,4,0,0,5055,0,190,6237,6685,6,179
-Cork North West,Collins,Áine Collins,,5,0,0,4796,0,259,6237,6944,6,179
-Cork North West,Collins,Áine Collins,,6,0,0,4549,0,247,6237,7191,6,179
-Cork North West,Collins,Áine Collins,,7,0,0,4352,0,197,6237,7388,6,179
-Cork North West,Collins,Áine Collins,Excluded,8,0,8,0,0,-7388,6237,0,6,179
-Cork North West,Collins,Áine Collins,Excluded,9,0,8,0,0,0,6237,0,6,179
+Cork North West,Collins,ï¿½ine Collins,,1,0,0,5503,0,0,6237,6237,6,179
+Cork North West,Collins,ï¿½ine Collins,,2,0,0,5443,0,60,6237,6297,6,179
+Cork North West,Collins,ï¿½ine Collins,,3,0,0,5245,0,198,6237,6495,6,179
+Cork North West,Collins,ï¿½ine Collins,,4,0,0,5055,0,190,6237,6685,6,179
+Cork North West,Collins,ï¿½ine Collins,,5,0,0,4796,0,259,6237,6944,6,179
+Cork North West,Collins,ï¿½ine Collins,,6,0,0,4549,0,247,6237,7191,6,179
+Cork North West,Collins,ï¿½ine Collins,,7,0,0,4352,0,197,6237,7388,6,179
+Cork North West,Collins,ï¿½ine Collins,Excluded,8,0,8,0,0,-7388,6237,0,6,179
+Cork North West,Collins,ï¿½ine Collins,Excluded,9,0,8,0,0,0,6237,0,6,179
 Dublin South Central,Collins,Joan,Elected,10,0,8,0,0,0,6195,8618,16,164
 Dublin South Central,Collins,Joan,Elected,11,145,8,0,0,-46,6195,8572,16,164
 Dublin South Central,Collins,Joan,,1,0,0,2377,0,0,6195,6195,16,164
@@ -1010,44 +1011,44 @@ Wicklow,Cronin,Avril,Excluded,7,0,7,0,546,-2322,2091,0,41,164
 Wicklow,Cronin,Avril,Excluded,8,0,7,0,546,0,2091,0,41,164
 Wicklow,Cronin,Avril,Excluded,9,0,7,0,546,0,2091,0,41,164
 Wicklow,Cronin,Avril,Excluded,10,0,7,0,546,0,2091,0,41,164
-Dún Laoghaire,Cronin,Frank,,1,0,0,12998,1891,0,1812,1812,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,2,0,2,0,1891,-1812,1812,0,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,3,0,2,0,1891,0,1812,0,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,4,0,2,0,1891,0,1812,0,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,5,0,2,0,1891,0,1812,0,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,6,0,2,0,1891,0,1812,0,21,234
-Dún Laoghaire,Cronin,Frank,Excluded,7,0,2,0,1891,0,1812,0,21,234
-Kildare North,Cronin,Réada,,6,0,0,5642,0,438,3205,4146,26,161
-Kildare North,Cronin,Réada,,7,0,0,5291,0,351,3205,4497,26,161
-Kildare North,Cronin,Réada,,1,0,0,6583,0,0,3205,3205,26,161
-Kildare North,Cronin,Réada,,2,0,0,6465,0,118,3205,3323,26,161
-Kildare North,Cronin,Réada,Excluded,8,0,8,0,0,-4497,3205,0,26,161
-Kildare North,Cronin,Réada,Excluded,9,0,8,0,0,0,3205,0,26,161
-Kildare North,Cronin,Réada,,3,0,0,6398,0,67,3205,3390,26,161
-Kildare North,Cronin,Réada,,4,0,0,6167,0,231,3205,3621,26,161
-Kildare North,Cronin,Réada,,5,0,0,6080,0,87,3205,3708,26,161
+Dï¿½n Laoghaire,Cronin,Frank,,1,0,0,12998,1891,0,1812,1812,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,2,0,2,0,1891,-1812,1812,0,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,3,0,2,0,1891,0,1812,0,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,4,0,2,0,1891,0,1812,0,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,5,0,2,0,1891,0,1812,0,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,6,0,2,0,1891,0,1812,0,21,234
+Dï¿½n Laoghaire,Cronin,Frank,Excluded,7,0,2,0,1891,0,1812,0,21,234
+Kildare North,Cronin,Rï¿½ada,,6,0,0,5642,0,438,3205,4146,26,161
+Kildare North,Cronin,Rï¿½ada,,7,0,0,5291,0,351,3205,4497,26,161
+Kildare North,Cronin,Rï¿½ada,,1,0,0,6583,0,0,3205,3205,26,161
+Kildare North,Cronin,Rï¿½ada,,2,0,0,6465,0,118,3205,3323,26,161
+Kildare North,Cronin,Rï¿½ada,Excluded,8,0,8,0,0,-4497,3205,0,26,161
+Kildare North,Cronin,Rï¿½ada,Excluded,9,0,8,0,0,0,3205,0,26,161
+Kildare North,Cronin,Rï¿½ada,,3,0,0,6398,0,67,3205,3390,26,161
+Kildare North,Cronin,Rï¿½ada,,4,0,0,6167,0,231,3205,3621,26,161
+Kildare North,Cronin,Rï¿½ada,,5,0,0,6080,0,87,3205,3708,26,161
 Kildare South,Crowe,Declan,,1,0,0,7054,157,0,2143,2143,187,174
 Kildare South,Crowe,Declan,,2,0,0,6588,0,466,2143,2609,187,174
 Kildare South,Crowe,Declan,Excluded,3,0,3,0,0,-2609,2143,0,187,174
 Kildare South,Crowe,Declan,Excluded,4,0,3,0,0,0,2143,0,187,174
 Kildare South,Crowe,Declan,Excluded,5,0,3,0,0,0,2143,0,187,174
 Kildare South,Crowe,Declan,Excluded,6,0,3,0,0,0,2143,0,187,174
-Dublin South West,Crowe,Seán,,1,0,0,4238,0,0,6974,6974,19,204
-Dublin South West,Crowe,Seán,,2,0,0,4234,0,4,6974,6978,19,204
-Dublin South West,Crowe,Seán,,3,0,0,4229,0,5,6974,6983,19,204
-Dublin South West,Crowe,Seán,,4,0,0,4158,0,71,6974,7054,19,204
-Dublin South West,Crowe,Seán,,5,0,0,4142,0,16,6974,7070,19,204
-Dublin South West,Crowe,Seán,,6,0,0,4114,0,28,6974,7098,19,204
-Dublin South West,Crowe,Seán,,7,0,0,3982,0,132,6974,7230,19,204
-Dublin South West,Crowe,Seán,,8,0,0,3850,0,132,6974,7362,19,204
-Dublin South West,Crowe,Seán,,9,0,0,3799,0,51,6974,7413,19,204
-Dublin South West,Crowe,Seán,,10,0,0,1710,0,2089,6974,9502,19,204
-Dublin South West,Crowe,Seán,,11,0,0,1570,0,140,6974,9642,19,204
-Dublin South West,Crowe,Seán,,12,0,0,1253,0,317,6974,9959,19,204
-Dublin South West,Crowe,Seán,,13,0,0,144,0,1109,6974,11068,19,204
-Dublin South West,Crowe,Seán,,14,0,0,130,0,14,6974,11082,19,204
-Dublin South West,Crowe,Seán,Elected,15,0,15,0,0,163,6974,11245,19,204
-Dublin South West,Crowe,Seán,Elected,16,0,15,0,0,0,6974,11245,19,204
+Dublin South West,Crowe,Seï¿½n,,1,0,0,4238,0,0,6974,6974,19,204
+Dublin South West,Crowe,Seï¿½n,,2,0,0,4234,0,4,6974,6978,19,204
+Dublin South West,Crowe,Seï¿½n,,3,0,0,4229,0,5,6974,6983,19,204
+Dublin South West,Crowe,Seï¿½n,,4,0,0,4158,0,71,6974,7054,19,204
+Dublin South West,Crowe,Seï¿½n,,5,0,0,4142,0,16,6974,7070,19,204
+Dublin South West,Crowe,Seï¿½n,,6,0,0,4114,0,28,6974,7098,19,204
+Dublin South West,Crowe,Seï¿½n,,7,0,0,3982,0,132,6974,7230,19,204
+Dublin South West,Crowe,Seï¿½n,,8,0,0,3850,0,132,6974,7362,19,204
+Dublin South West,Crowe,Seï¿½n,,9,0,0,3799,0,51,6974,7413,19,204
+Dublin South West,Crowe,Seï¿½n,,10,0,0,1710,0,2089,6974,9502,19,204
+Dublin South West,Crowe,Seï¿½n,,11,0,0,1570,0,140,6974,9642,19,204
+Dublin South West,Crowe,Seï¿½n,,12,0,0,1253,0,317,6974,9959,19,204
+Dublin South West,Crowe,Seï¿½n,,13,0,0,144,0,1109,6974,11068,19,204
+Dublin South West,Crowe,Seï¿½n,,14,0,0,130,0,14,6974,11082,19,204
+Dublin South West,Crowe,Seï¿½n,Elected,15,0,15,0,0,163,6974,11245,19,204
+Dublin South West,Crowe,Seï¿½n,Elected,16,0,15,0,0,0,6974,11245,19,204
 Galway West,Cubbard,Mike,,1,0,0,8590,557,0,2122,2122,23,164
 Galway West,Cubbard,Mike,,2,0,0,8566,532,24,2122,2146,23,164
 Galway West,Cubbard,Mike,,3,0,0,8546,512,20,2122,2166,23,164
@@ -1237,24 +1238,24 @@ Dublin South West,Dermody,Anne-Marie,,13,0,0,3344,0,33,6463,7868,19,205
 Dublin South West,Dermody,Anne-Marie,,14,0,0,3301,0,43,6463,7911,19,205
 Dublin South West,Dermody,Anne-Marie,,15,0,0,2133,0,1168,6463,9079,19,205
 Dublin South West,Dermody,Anne-Marie,,16,0,16,1709,0,424,6463,9503,19,205
-Dublin South Central,Devine,Máire,Excluded,10,0,7,0,0,0,3332,0,16,166
-Dublin South Central,Devine,Máire,Excluded,11,0,7,0,0,0,3332,0,16,166
-Dublin South Central,Devine,Máire,,1,0,0,5240,0,0,3332,3332,16,166
-Dublin South Central,Devine,Máire,,2,0,0,5209,0,31,3332,3363,16,166
-Dublin South Central,Devine,Máire,,3,0,0,5183,0,26,3332,3389,16,166
-Dublin South Central,Devine,Máire,,4,0,0,5149,0,34,3332,3423,16,166
-Dublin South Central,Devine,Máire,,5,0,0,5041,0,108,3332,3531,16,166
-Dublin South Central,Devine,Máire,,6,0,0,4886,0,155,3332,3686,16,166
-Dublin South Central,Devine,Máire,Excluded,7,0,7,0,0,-3686,3332,0,16,166
-Dublin South Central,Devine,Máire,Excluded,8,0,7,0,0,0,3332,0,16,166
-Dublin South Central,Devine,Máire,Excluded,9,0,7,0,0,0,3332,0,16,166
-Dún Laoghaire,Devlin,Cormac,,1,0,0,10145,0,0,4665,4665,21,235
-Dún Laoghaire,Devlin,Cormac,,2,0,0,9933,0,212,4665,4877,21,235
-Dún Laoghaire,Devlin,Cormac,,3,0,0,9755,0,178,4665,5055,21,235
-Dún Laoghaire,Devlin,Cormac,,4,0,0,9545,0,210,4665,5265,21,235
-Dún Laoghaire,Devlin,Cormac,,5,0,0,9246,0,299,4665,5564,21,235
-Dún Laoghaire,Devlin,Cormac,Excluded,6,0,6,0,0,-5564,4665,0,21,235
-Dún Laoghaire,Devlin,Cormac,Excluded,7,0,6,0,0,0,4665,0,21,235
+Dublin South Central,Devine,Mï¿½ire,Excluded,10,0,7,0,0,0,3332,0,16,166
+Dublin South Central,Devine,Mï¿½ire,Excluded,11,0,7,0,0,0,3332,0,16,166
+Dublin South Central,Devine,Mï¿½ire,,1,0,0,5240,0,0,3332,3332,16,166
+Dublin South Central,Devine,Mï¿½ire,,2,0,0,5209,0,31,3332,3363,16,166
+Dublin South Central,Devine,Mï¿½ire,,3,0,0,5183,0,26,3332,3389,16,166
+Dublin South Central,Devine,Mï¿½ire,,4,0,0,5149,0,34,3332,3423,16,166
+Dublin South Central,Devine,Mï¿½ire,,5,0,0,5041,0,108,3332,3531,16,166
+Dublin South Central,Devine,Mï¿½ire,,6,0,0,4886,0,155,3332,3686,16,166
+Dublin South Central,Devine,Mï¿½ire,Excluded,7,0,7,0,0,-3686,3332,0,16,166
+Dublin South Central,Devine,Mï¿½ire,Excluded,8,0,7,0,0,0,3332,0,16,166
+Dublin South Central,Devine,Mï¿½ire,Excluded,9,0,7,0,0,0,3332,0,16,166
+Dï¿½n Laoghaire,Devlin,Cormac,,1,0,0,10145,0,0,4665,4665,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,,2,0,0,9933,0,212,4665,4877,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,,3,0,0,9755,0,178,4665,5055,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,,4,0,0,9545,0,210,4665,5265,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,,5,0,0,9246,0,299,4665,5564,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,Excluded,6,0,6,0,0,-5564,4665,0,21,235
+Dï¿½n Laoghaire,Devlin,Cormac,Excluded,7,0,6,0,0,0,4665,0,21,235
 Dublin North West,Dignam,Jimmy,,1,0,0,8561,1622,0,692,692,15,162
 Dublin North West,Dignam,Jimmy,,2,0,0,8490,1551,71,692,763,15,162
 Dublin North West,Dignam,Jimmy,Excluded,3,0,3,0,1551,-763,692,0,15,162
@@ -1405,15 +1406,15 @@ Kildare North,Dunne,Ger,Excluded,9,0,3,0,2187,0,249,0,26,162
 Kildare North,Dunne,Ger,Excluded,3,0,3,0,2187,-261,249,0,26,162
 Kildare North,Dunne,Ger,Excluded,4,0,3,0,2187,0,249,0,26,162
 Kildare North,Dunne,Ger,Excluded,5,0,3,0,2187,0,249,0,26,162
-Waterford,Dunphy,Úna,,1,0,0,8695,940,0,1646,1646,38,166
-Waterford,Dunphy,Úna,,2,0,0,8685,930,10,1646,1656,38,166
-Waterford,Dunphy,Úna,,3,0,0,8622,867,63,1646,1719,38,166
-Waterford,Dunphy,Úna,,4,0,0,8574,819,48,1646,1767,38,166
-Waterford,Dunphy,Úna,,5,0,0,8484,729,90,1646,1857,38,166
-Waterford,Dunphy,Úna,Excluded,6,0,6,0,729,-1857,1646,0,38,166
-Waterford,Dunphy,Úna,Excluded,7,0,6,0,729,0,1646,0,38,166
-Waterford,Dunphy,Úna,Excluded,8,0,6,0,729,0,1646,0,38,166
-Waterford,Dunphy,Úna,Excluded,9,0,6,0,729,0,1646,0,38,166
+Waterford,Dunphy,ï¿½na,,1,0,0,8695,940,0,1646,1646,38,166
+Waterford,Dunphy,ï¿½na,,2,0,0,8685,930,10,1646,1656,38,166
+Waterford,Dunphy,ï¿½na,,3,0,0,8622,867,63,1646,1719,38,166
+Waterford,Dunphy,ï¿½na,,4,0,0,8574,819,48,1646,1767,38,166
+Waterford,Dunphy,ï¿½na,,5,0,0,8484,729,90,1646,1857,38,166
+Waterford,Dunphy,ï¿½na,Excluded,6,0,6,0,729,-1857,1646,0,38,166
+Waterford,Dunphy,ï¿½na,Excluded,7,0,6,0,729,0,1646,0,38,166
+Waterford,Dunphy,ï¿½na,Excluded,8,0,6,0,729,0,1646,0,38,166
+Waterford,Dunphy,ï¿½na,Excluded,9,0,6,0,729,0,1646,0,38,166
 Kildare North,Durkan,Bernard,,6,0,0,3254,0,62,6147,6534,26,163
 Kildare North,Durkan,Bernard,,7,0,0,3048,0,206,6147,6740,26,163
 Kildare North,Durkan,Bernard,,1,0,0,3641,0,0,6147,6147,26,163
@@ -1667,13 +1668,13 @@ Kildare North,Fitzgerald,Shane,,3,0,0,8634,1294,68,994,1154,26,164
 Kildare North,Fitzgerald,Shane,Excluded,9,0,5,0,1212,0,994,0,26,164
 Kildare North,Fitzgerald,Shane,,4,0,0,8552,1212,82,994,1236,26,164
 Kildare North,Fitzgerald,Shane,Excluded,5,0,5,0,1212,-1236,994,0,26,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,6,0,2,0,1908,0,1341,0,36,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,7,0,2,0,1908,0,1341,0,36,164
-Tipperary,Fitzgibbon,Gearóid,,1,0,0,11651,1908,0,1341,1341,36,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,2,0,2,0,1908,-1341,1341,0,36,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,5,0,2,0,1908,0,1341,0,36,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,3,0,2,0,1908,0,1341,0,36,164
-Tipperary,Fitzgibbon,Gearóid,Excluded,4,0,2,0,1908,0,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,6,0,2,0,1908,0,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,7,0,2,0,1908,0,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,,1,0,0,11651,1908,0,1341,1341,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,2,0,2,0,1908,-1341,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,5,0,2,0,1908,0,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,3,0,2,0,1908,0,1341,0,36,164
+Tipperary,Fitzgibbon,Gearï¿½id,Excluded,4,0,2,0,1908,0,1341,0,36,164
 Kerry,Fitzgibbon,Mary Elizabeth,,4,0,0,12461,2552,45,635,752,24,166
 Kerry,Fitzgibbon,Mary Elizabeth,Excluded,7,0,5,0,2552,0,635,0,24,166
 Kerry,Fitzgibbon,Mary Elizabeth,Excluded,5,0,5,0,2552,-752,635,0,24,166
@@ -1769,9 +1770,9 @@ Dublin Bay North,Flanagan,Terence,Excluded,12,0,10,0,0,0,3205,0,13,164
 Dublin Bay North,Flanagan,Terence,Excluded,13,0,10,0,0,0,3205,0,13,164
 Dublin Bay North,Flanagan,Terence,Excluded,14,0,10,0,0,0,3205,0,13,164
 Dublin Bay North,Flanagan,Terence,Excluded,15,0,10,0,0,0,3205,0,13,164
-Laois,Fleming,Seán,Elected,1,0,1,0,0,0,13626,13626,27,162
-Laois,Fleming,Seán,Elected,2,2760,1,0,0,-3908,13626,9718,27,162
-Laois,Fleming,Seán,Elected,3,2760,1,0,0,0,13626,9718,27,162
+Laois,Fleming,Seï¿½n,Elected,1,0,1,0,0,0,13626,13626,27,162
+Laois,Fleming,Seï¿½n,Elected,2,2760,1,0,0,-3908,13626,9718,27,162
+Laois,Fleming,Seï¿½n,Elected,3,2760,1,0,0,0,13626,9718,27,162
 Dublin Bay South,Flynn,Mannix,Excluded,4,0,3,0,338,0,1525,0,17,176
 Dublin Bay South,Flynn,Mannix,Excluded,5,0,3,0,338,0,1525,0,17,176
 Dublin Bay South,Flynn,Mannix,,1,0,0,6416,461,0,1525,1525,17,176
@@ -2088,13 +2089,13 @@ Waterford,Halligan,John,,6,0,0,1070,0,597,8306,9271,38,167
 Waterford,Halligan,John,,7,0,0,996,0,74,8306,9345,38,167
 Waterford,Halligan,John,Elected,8,0,8,0,0,1803,8306,11148,38,167
 Waterford,Halligan,John,Elected,9,1417,8,0,0,-807,8306,10341,38,167
-Dún Laoghaire,Hanafin,Mary,,1,0,0,8332,0,0,6478,6478,21,236
-Dún Laoghaire,Hanafin,Mary,,2,0,0,8101,0,231,6478,6709,21,236
-Dún Laoghaire,Hanafin,Mary,,3,0,0,8018,0,83,6478,6792,21,236
-Dún Laoghaire,Hanafin,Mary,,4,0,0,7824,0,194,6478,6986,21,236
-Dún Laoghaire,Hanafin,Mary,,5,0,0,7520,0,304,6478,7290,21,236
-Dún Laoghaire,Hanafin,Mary,,6,0,0,4589,0,2931,6478,10221,21,236
-Dún Laoghaire,Hanafin,Mary,,7,0,0,3841,0,748,6478,10969,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,1,0,0,8332,0,0,6478,6478,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,2,0,0,8101,0,231,6478,6709,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,3,0,0,8018,0,83,6478,6792,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,4,0,0,7824,0,194,6478,6986,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,5,0,0,7520,0,304,6478,7290,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,6,0,0,4589,0,2931,6478,10221,21,236
+Dï¿½n Laoghaire,Hanafin,Mary,,7,0,0,3841,0,748,6478,10969,21,236
 Dublin South Central,Hand,Paul,Excluded,10,0,5,0,0,0,2011,0,16,168
 Dublin South Central,Hand,Paul,,1,0,0,6561,133,0,2011,2011,16,168
 Dublin South Central,Hand,Paul,,2,0,0,6472,44,89,2011,2100,16,168
@@ -2183,21 +2184,21 @@ Cork East,Harty,Natasha,Excluded,6,0,2,0,1835,0,806,0,4,165
 Cork East,Harty,Natasha,Excluded,7,0,2,0,1835,0,806,0,4,165
 Cork East,Harty,Natasha,Excluded,8,0,2,0,1835,0,806,0,4,165
 Cork East,Harty,Natasha,Excluded,9,0,2,0,1835,0,806,0,4,165
-Dublin Bay North,Haughey,Seán,,1,0,0,4264,0,0,8007,8007,13,166
-Dublin Bay North,Haughey,Seán,,3,0,0,4177,0,65,8007,8094,13,166
-Dublin Bay North,Haughey,Seán,,4,0,0,4148,0,29,8007,8123,13,166
-Dublin Bay North,Haughey,Seán,,2,0,0,4242,0,22,8007,8029,13,166
-Dublin Bay North,Haughey,Seán,,5,0,0,4114,0,34,8007,8157,13,166
-Dublin Bay North,Haughey,Seán,,9,0,0,3926,0,52,8007,8345,13,166
-Dublin Bay North,Haughey,Seán,,6,0,0,4082,0,32,8007,8189,13,166
-Dublin Bay North,Haughey,Seán,,10,0,0,2960,0,966,8007,9311,13,166
-Dublin Bay North,Haughey,Seán,,11,0,0,2893,0,67,8007,9378,13,166
-Dublin Bay North,Haughey,Seán,,7,0,0,4039,0,43,8007,8232,13,166
-Dublin Bay North,Haughey,Seán,,8,0,0,3978,0,61,8007,8293,13,166
-Dublin Bay North,Haughey,Seán,,12,0,0,612,0,2281,8007,11659,13,166
-Dublin Bay North,Haughey,Seán,,13,0,0,315,0,297,8007,11956,13,166
-Dublin Bay North,Haughey,Seán,Elected,14,0,14,0,0,798,8007,12754,13,166
-Dublin Bay North,Haughey,Seán,Elected,15,0,14,0,0,0,8007,12754,13,166
+Dublin Bay North,Haughey,Seï¿½n,,1,0,0,4264,0,0,8007,8007,13,166
+Dublin Bay North,Haughey,Seï¿½n,,3,0,0,4177,0,65,8007,8094,13,166
+Dublin Bay North,Haughey,Seï¿½n,,4,0,0,4148,0,29,8007,8123,13,166
+Dublin Bay North,Haughey,Seï¿½n,,2,0,0,4242,0,22,8007,8029,13,166
+Dublin Bay North,Haughey,Seï¿½n,,5,0,0,4114,0,34,8007,8157,13,166
+Dublin Bay North,Haughey,Seï¿½n,,9,0,0,3926,0,52,8007,8345,13,166
+Dublin Bay North,Haughey,Seï¿½n,,6,0,0,4082,0,32,8007,8189,13,166
+Dublin Bay North,Haughey,Seï¿½n,,10,0,0,2960,0,966,8007,9311,13,166
+Dublin Bay North,Haughey,Seï¿½n,,11,0,0,2893,0,67,8007,9378,13,166
+Dublin Bay North,Haughey,Seï¿½n,,7,0,0,4039,0,43,8007,8232,13,166
+Dublin Bay North,Haughey,Seï¿½n,,8,0,0,3978,0,61,8007,8293,13,166
+Dublin Bay North,Haughey,Seï¿½n,,12,0,0,612,0,2281,8007,11659,13,166
+Dublin Bay North,Haughey,Seï¿½n,,13,0,0,315,0,297,8007,11956,13,166
+Dublin Bay North,Haughey,Seï¿½n,Elected,14,0,14,0,0,798,8007,12754,13,166
+Dublin Bay North,Haughey,Seï¿½n,Elected,15,0,14,0,0,0,8007,12754,13,166
 Limerick City,Hayes,Des,,1,0,0,9099,2085,0,254,254,28,162
 Limerick City,Hayes,Des,,2,0,0,9039,2025,60,254,314,28,162
 Limerick City,Hayes,Des,Excluded,3,0,3,0,2025,-314,254,0,28,162
@@ -2491,13 +2492,13 @@ Dublin Bay South,Humphreys,Kevin,,3,0,0,3563,0,151,4205,4378,17,178
 Dublin Bay South,Humphreys,Kevin,,8,0,8,1720,0,248,4205,6221,17,178
 Dublin Bay South,Humphreys,Kevin,,6,0,0,2550,0,399,4205,5391,17,178
 Dublin Bay South,Humphreys,Kevin,,7,0,0,1968,0,582,4205,5973,17,178
-Dún Laoghaire,Hunt,Carol,,1,0,0,11658,551,0,3152,3152,21,237
-Dún Laoghaire,Hunt,Carol,,2,0,0,11400,293,258,3152,3410,21,237
-Dún Laoghaire,Hunt,Carol,,3,0,0,11200,93,200,3152,3610,21,237
-Dún Laoghaire,Hunt,Carol,Excluded,4,0,4,0,93,-3610,3152,0,21,237
-Dún Laoghaire,Hunt,Carol,Excluded,5,0,4,0,93,0,3152,0,21,237
-Dún Laoghaire,Hunt,Carol,Excluded,6,0,4,0,93,0,3152,0,21,237
-Dún Laoghaire,Hunt,Carol,Excluded,7,0,4,0,93,0,3152,0,21,237
+Dï¿½n Laoghaire,Hunt,Carol,,1,0,0,11658,551,0,3152,3152,21,237
+Dï¿½n Laoghaire,Hunt,Carol,,2,0,0,11400,293,258,3152,3410,21,237
+Dï¿½n Laoghaire,Hunt,Carol,,3,0,0,11200,93,200,3152,3610,21,237
+Dï¿½n Laoghaire,Hunt,Carol,Excluded,4,0,4,0,93,-3610,3152,0,21,237
+Dï¿½n Laoghaire,Hunt,Carol,Excluded,5,0,4,0,93,0,3152,0,21,237
+Dï¿½n Laoghaire,Hunt,Carol,Excluded,6,0,4,0,93,0,3152,0,21,237
+Dï¿½n Laoghaire,Hunt,Carol,Excluded,7,0,4,0,93,0,3152,0,21,237
 Wicklow,Hutchinson,Katrina,Excluded,4,0,3,0,2651,0,168,0,41,171
 Wicklow,Hutchinson,Katrina,Excluded,5,0,3,0,2651,0,168,0,41,171
 Wicklow,Hutchinson,Katrina,Excluded,6,0,3,0,2651,0,168,0,41,171
@@ -2692,17 +2693,17 @@ Wexford,Kelly,Leonard,Excluded,9,0,8,0,808,0,1635,0,40,170
 Wexford,Kelly,Leonard,Excluded,10,0,8,0,808,0,1635,0,40,170
 Wexford,Kelly,Leonard,Excluded,11,0,8,0,808,0,1635,0,40,170
 Wexford,Kelly,Leonard,Excluded,12,0,8,0,808,0,1635,0,40,170
-Cork South Central,Kenneally,Ciarán,,2,0,0,10206,1854,44,887,931,7,249
-Cork South Central,Kenneally,Ciarán,,1,0,0,10250,1898,0,887,887,7,249
-Cork South Central,Kenneally,Ciarán,Excluded,7,0,7,0,1771,-1014,887,0,7,249
-Cork South Central,Kenneally,Ciarán,Excluded,11,0,7,0,1771,0,887,0,7,249
-Cork South Central,Kenneally,Ciarán,Excluded,8,0,7,0,1771,0,887,0,7,249
-Cork South Central,Kenneally,Ciarán,Excluded,9,0,7,0,1771,0,887,0,7,249
-Cork South Central,Kenneally,Ciarán,,3,0,0,10193,1841,13,887,944,7,249
-Cork South Central,Kenneally,Ciarán,,4,0,0,10186,1834,7,887,951,7,249
-Cork South Central,Kenneally,Ciarán,,5,0,0,10147,1795,39,887,990,7,249
-Cork South Central,Kenneally,Ciarán,,6,0,0,10123,1771,24,887,1014,7,249
-Cork South Central,Kenneally,Ciarán,Excluded,10,0,7,0,1771,0,887,0,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,2,0,0,10206,1854,44,887,931,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,1,0,0,10250,1898,0,887,887,7,249
+Cork South Central,Kenneally,Ciarï¿½n,Excluded,7,0,7,0,1771,-1014,887,0,7,249
+Cork South Central,Kenneally,Ciarï¿½n,Excluded,11,0,7,0,1771,0,887,0,7,249
+Cork South Central,Kenneally,Ciarï¿½n,Excluded,8,0,7,0,1771,0,887,0,7,249
+Cork South Central,Kenneally,Ciarï¿½n,Excluded,9,0,7,0,1771,0,887,0,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,3,0,0,10193,1841,13,887,944,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,4,0,0,10186,1834,7,887,951,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,5,0,0,10147,1795,39,887,990,7,249
+Cork South Central,Kenneally,Ciarï¿½n,,6,0,0,10123,1771,24,887,1014,7,249
+Cork South Central,Kenneally,Ciarï¿½n,Excluded,10,0,7,0,1771,0,887,0,7,249
 Kildare South,Kennedy,Mary,,1,0,0,8410,1513,0,787,787,187,176
 Kildare South,Kennedy,Mary,Excluded,2,0,2,0,1513,-787,787,0,187,176
 Kildare South,Kennedy,Mary,Excluded,3,0,2,0,1513,0,787,0,187,176
@@ -2828,20 +2829,20 @@ Dublin Mid West,Kivlehan,Tom,Excluded,8,0,8,0,1713,-443,388,0,643,196
 Dublin Mid West,Kivlehan,Tom,Excluded,9,0,8,0,1713,0,388,0,643,196
 Dublin Mid West,Kivlehan,Tom,Excluded,10,0,8,0,1713,0,388,0,643,196
 Dublin Mid West,Kivlehan,Tom,Excluded,11,0,8,0,1713,0,388,0,643,196
-Galway West,Kyne,Seán,,1,0,0,4576,0,0,6136,6136,23,172
-Galway West,Kyne,Seán,,2,0,0,4564,0,12,6136,6148,23,172
-Galway West,Kyne,Seán,,9,0,0,4125,0,81,6136,6587,23,172
-Galway West,Kyne,Seán,,3,0,0,4480,0,84,6136,6232,23,172
-Galway West,Kyne,Seán,,4,0,0,4467,0,13,6136,6245,23,172
-Galway West,Kyne,Seán,,10,0,0,3511,0,614,6136,7201,23,172
-Galway West,Kyne,Seán,,5,0,0,4420,0,47,6136,6292,23,172
-Galway West,Kyne,Seán,,6,0,0,4357,0,63,6136,6355,23,172
-Galway West,Kyne,Seán,,7,0,0,4268,0,89,6136,6444,23,172
-Galway West,Kyne,Seán,,11,0,0,3503,0,8,6136,7209,23,172
-Galway West,Kyne,Seán,,8,0,0,4206,0,62,6136,6506,23,172
-Galway West,Kyne,Seán,,12,0,0,3056,0,447,6136,7656,23,172
-Galway West,Kyne,Seán,,13,0,0,2541,0,515,6136,8171,23,172
-Galway West,Kyne,Seán,Elected,14,0,14,122,0,2419,6136,10590,23,172
+Galway West,Kyne,Seï¿½n,,1,0,0,4576,0,0,6136,6136,23,172
+Galway West,Kyne,Seï¿½n,,2,0,0,4564,0,12,6136,6148,23,172
+Galway West,Kyne,Seï¿½n,,9,0,0,4125,0,81,6136,6587,23,172
+Galway West,Kyne,Seï¿½n,,3,0,0,4480,0,84,6136,6232,23,172
+Galway West,Kyne,Seï¿½n,,4,0,0,4467,0,13,6136,6245,23,172
+Galway West,Kyne,Seï¿½n,,10,0,0,3511,0,614,6136,7201,23,172
+Galway West,Kyne,Seï¿½n,,5,0,0,4420,0,47,6136,6292,23,172
+Galway West,Kyne,Seï¿½n,,6,0,0,4357,0,63,6136,6355,23,172
+Galway West,Kyne,Seï¿½n,,7,0,0,4268,0,89,6136,6444,23,172
+Galway West,Kyne,Seï¿½n,,11,0,0,3503,0,8,6136,7209,23,172
+Galway West,Kyne,Seï¿½n,,8,0,0,4206,0,62,6136,6506,23,172
+Galway West,Kyne,Seï¿½n,,12,0,0,3056,0,447,6136,7656,23,172
+Galway West,Kyne,Seï¿½n,,13,0,0,2541,0,515,6136,8171,23,172
+Galway West,Kyne,Seï¿½n,Elected,14,0,14,122,0,2419,6136,10590,23,172
 Dublin South West,Lahart,John,,1,0,0,1565,0,0,9647,9647,19,212
 Dublin South West,Lahart,John,,2,0,0,1557,0,8,9647,9655,19,212
 Dublin South West,Lahart,John,,3,0,0,1534,0,23,9647,9678,19,212
@@ -2942,17 +2943,17 @@ Tipperary,Lowry,Michael,Elected,2,0,1,0,0,0,13064,13064,36,168
 Tipperary,Lowry,Michael,Elected,4,0,1,0,0,0,13064,13064,36,168
 Tipperary,Lowry,Michael,Elected,5,0,1,0,0,0,13064,13064,36,168
 Tipperary,Lowry,Michael,Elected,3,0,1,0,0,0,13064,13064,36,168
-Cork South Central,Lynch,Ciarán,,2,0,0,8675,323,45,2417,2462,7,250
-Cork South Central,Lynch,Ciarán,,1,0,0,8720,368,0,2417,2417,7,250
-Cork South Central,Lynch,Ciarán,,6,0,0,8624,272,9,2417,2513,7,250
-Cork South Central,Lynch,Ciarán,,7,0,0,8563,211,61,2417,2574,7,250
-Cork South Central,Lynch,Ciarán,Excluded,11,0,10,0,100,0,2417,0,7,250
-Cork South Central,Lynch,Ciarán,,8,0,0,8526,174,37,2417,2611,7,250
-Cork South Central,Lynch,Ciarán,,9,0,0,8452,100,74,2417,2685,7,250
-Cork South Central,Lynch,Ciarán,,3,0,0,8659,307,16,2417,2478,7,250
-Cork South Central,Lynch,Ciarán,,4,0,0,8656,304,3,2417,2481,7,250
-Cork South Central,Lynch,Ciarán,,5,0,0,8633,281,23,2417,2504,7,250
-Cork South Central,Lynch,Ciarán,Excluded,10,0,10,0,100,-2685,2417,0,7,250
+Cork South Central,Lynch,Ciarï¿½n,,2,0,0,8675,323,45,2417,2462,7,250
+Cork South Central,Lynch,Ciarï¿½n,,1,0,0,8720,368,0,2417,2417,7,250
+Cork South Central,Lynch,Ciarï¿½n,,6,0,0,8624,272,9,2417,2513,7,250
+Cork South Central,Lynch,Ciarï¿½n,,7,0,0,8563,211,61,2417,2574,7,250
+Cork South Central,Lynch,Ciarï¿½n,Excluded,11,0,10,0,100,0,2417,0,7,250
+Cork South Central,Lynch,Ciarï¿½n,,8,0,0,8526,174,37,2417,2611,7,250
+Cork South Central,Lynch,Ciarï¿½n,,9,0,0,8452,100,74,2417,2685,7,250
+Cork South Central,Lynch,Ciarï¿½n,,3,0,0,8659,307,16,2417,2478,7,250
+Cork South Central,Lynch,Ciarï¿½n,,4,0,0,8656,304,3,2417,2481,7,250
+Cork South Central,Lynch,Ciarï¿½n,,5,0,0,8633,281,23,2417,2504,7,250
+Cork South Central,Lynch,Ciarï¿½n,Excluded,10,0,10,0,100,-2685,2417,0,7,250
 Dublin Bay South,Lynch,Glenna,,4,0,0,4414,0,578,2652,3527,17,180
 Dublin Bay South,Lynch,Glenna,Excluded,5,0,5,0,0,-3527,2652,0,17,180
 Dublin Bay South,Lynch,Glenna,,1,0,0,5289,0,0,2652,2652,17,180
@@ -3034,34 +3035,34 @@ Sligo Leitrim,Mac Manus,Chris,,11,0,0,5423,0,1408,4747,7045,35,167
 Sligo Leitrim,Mac Manus,Chris,,12,0,0,5375,0,48,4747,7093,35,167
 Sligo Leitrim,Mac Manus,Chris,Excluded,13,0,13,0,0,-7093,4747,0,35,167
 Sligo Leitrim,Mac Manus,Chris,Excluded,14,0,13,0,0,0,4747,0,35,167
-Dublin Bay North,Macdonncha,Mícheál,,1,0,0,8744,0,0,3527,3527,13,169
-Dublin Bay North,Macdonncha,Mícheál,,3,0,0,8708,0,23,3527,3563,13,169
-Dublin Bay North,Macdonncha,Mícheál,,2,0,0,8731,0,13,3527,3540,13,169
-Dublin Bay North,Macdonncha,Mícheál,,4,0,0,8695,0,13,3527,3576,13,169
-Dublin Bay North,Macdonncha,Mícheál,,5,0,0,8608,0,87,3527,3663,13,169
-Dublin Bay North,Macdonncha,Mícheál,,9,0,0,8480,0,1,3527,3791,13,169
-Dublin Bay North,Macdonncha,Mícheál,,6,0,0,8603,0,5,3527,3668,13,169
-Dublin Bay North,Macdonncha,Mícheál,,10,0,0,8421,0,59,3527,3850,13,169
-Dublin Bay North,Macdonncha,Mícheál,,7,0,0,8484,0,119,3527,3787,13,169
-Dublin Bay North,Macdonncha,Mícheál,,8,0,0,8481,0,3,3527,3790,13,169
-Dublin Bay North,Macdonncha,Mícheál,Excluded,11,0,11,0,0,-3850,3527,0,13,169
-Dublin Bay North,Macdonncha,Mícheál,Excluded,12,0,11,0,0,0,3527,0,13,169
-Dublin Bay North,Macdonncha,Mícheál,Excluded,13,0,11,0,0,0,3527,0,13,169
-Dublin Bay North,Macdonncha,Mícheál,Excluded,14,0,11,0,0,0,3527,0,13,169
-Dublin Bay North,Macdonncha,Mícheál,Excluded,15,0,11,0,0,0,3527,0,13,169
-Donegal,MacLochlainn,Pádraig,,8,0,0,5651,0,535,5742,6567,9,167
-Donegal,MacLochlainn,Pádraig,,9,0,0,3709,0,1942,5742,8509,9,167
-Donegal,MacLochlainn,Pádraig,,10,0,0,3075,0,634,5742,9143,9,167
-Donegal,MacLochlainn,Pádraig,,11,0,0,2502,0,573,5742,9716,9,167
-Donegal,MacLochlainn,Pádraig,,1,0,0,6476,0,0,5742,5742,9,167
-Donegal,MacLochlainn,Pádraig,,12,0,0,2366,0,136,5742,9852,9,167
-Donegal,MacLochlainn,Pádraig,Excluded,13,0,13,2320,0,46,5742,9898,9,167
-Donegal,MacLochlainn,Pádraig,,2,0,0,6475,0,1,5742,5743,9,167
-Donegal,MacLochlainn,Pádraig,,3,0,0,6445,0,30,5742,5773,9,167
-Donegal,MacLochlainn,Pádraig,,4,0,0,6325,0,120,5742,5893,9,167
-Donegal,MacLochlainn,Pádraig,,5,0,0,6257,0,68,5742,5961,9,167
-Donegal,MacLochlainn,Pádraig,,6,0,0,6210,0,47,5742,6008,9,167
-Donegal,MacLochlainn,Pádraig,,7,0,0,6186,0,24,5742,6032,9,167
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,1,0,0,8744,0,0,3527,3527,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,3,0,0,8708,0,23,3527,3563,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,2,0,0,8731,0,13,3527,3540,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,4,0,0,8695,0,13,3527,3576,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,5,0,0,8608,0,87,3527,3663,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,9,0,0,8480,0,1,3527,3791,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,6,0,0,8603,0,5,3527,3668,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,10,0,0,8421,0,59,3527,3850,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,7,0,0,8484,0,119,3527,3787,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,,8,0,0,8481,0,3,3527,3790,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,Excluded,11,0,11,0,0,-3850,3527,0,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,Excluded,12,0,11,0,0,0,3527,0,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,Excluded,13,0,11,0,0,0,3527,0,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,Excluded,14,0,11,0,0,0,3527,0,13,169
+Dublin Bay North,Macdonncha,Mï¿½cheï¿½l,Excluded,15,0,11,0,0,0,3527,0,13,169
+Donegal,MacLochlainn,Pï¿½draig,,8,0,0,5651,0,535,5742,6567,9,167
+Donegal,MacLochlainn,Pï¿½draig,,9,0,0,3709,0,1942,5742,8509,9,167
+Donegal,MacLochlainn,Pï¿½draig,,10,0,0,3075,0,634,5742,9143,9,167
+Donegal,MacLochlainn,Pï¿½draig,,11,0,0,2502,0,573,5742,9716,9,167
+Donegal,MacLochlainn,Pï¿½draig,,1,0,0,6476,0,0,5742,5742,9,167
+Donegal,MacLochlainn,Pï¿½draig,,12,0,0,2366,0,136,5742,9852,9,167
+Donegal,MacLochlainn,Pï¿½draig,Excluded,13,0,13,2320,0,46,5742,9898,9,167
+Donegal,MacLochlainn,Pï¿½draig,,2,0,0,6475,0,1,5742,5743,9,167
+Donegal,MacLochlainn,Pï¿½draig,,3,0,0,6445,0,30,5742,5773,9,167
+Donegal,MacLochlainn,Pï¿½draig,,4,0,0,6325,0,120,5742,5893,9,167
+Donegal,MacLochlainn,Pï¿½draig,,5,0,0,6257,0,68,5742,5961,9,167
+Donegal,MacLochlainn,Pï¿½draig,,6,0,0,6210,0,47,5742,6008,9,167
+Donegal,MacLochlainn,Pï¿½draig,,7,0,0,6186,0,24,5742,6032,9,167
 Sligo Leitrim,MacSharry,Marc,,2,0,0,3594,0,18,8856,8874,35,168
 Sligo Leitrim,MacSharry,Marc,,3,0,0,3575,0,19,8856,8893,35,168
 Sligo Leitrim,MacSharry,Marc,,4,0,0,3432,0,143,8856,9036,35,168
@@ -3091,21 +3092,21 @@ Dublin Rathdown,Madigan,Josepha,,3,0,0,3095,0,345,6668,7180,18,224
 Dublin Rathdown,Madigan,Josepha,,4,0,0,2985,0,110,6668,7290,18,224
 Dublin Rathdown,Madigan,Josepha,,5,0,0,1696,0,1289,6668,8579,18,224
 Dublin Rathdown,Madigan,Josepha,Elected,6,0,6,787,0,909,6668,9488,18,224
-Longford Westmeath,Magan,Manchán,,1,0,0,9948,1661,0,1102,1102,30,234
-Longford Westmeath,Magan,Manchán,,5,0,0,9895,1608,23,1102,1155,30,234
-Longford Westmeath,Magan,Manchán,,2,0,0,9941,1654,7,1102,1109,30,234
-Longford Westmeath,Magan,Manchán,,6,0,0,9817,1530,78,1102,1233,30,234
-Longford Westmeath,Magan,Manchán,,7,0,0,9791,1504,26,1102,1259,30,234
-Longford Westmeath,Magan,Manchán,,3,0,0,9930,1643,11,1102,1120,30,234
-Longford Westmeath,Magan,Manchán,,4,0,0,9918,1631,12,1102,1132,30,234
-Longford Westmeath,Magan,Manchán,,8,0,0,9657,1370,134,1102,1393,30,234
-Longford Westmeath,Magan,Manchán,Excluded,9,0,9,0,1370,-1393,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,10,0,9,0,1370,0,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,11,0,9,0,1370,0,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,12,0,9,0,1370,0,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,13,0,9,0,1370,0,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,14,0,9,0,1370,0,1102,0,30,234
-Longford Westmeath,Magan,Manchán,Excluded,15,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,,1,0,0,9948,1661,0,1102,1102,30,234
+Longford Westmeath,Magan,Manchï¿½n,,5,0,0,9895,1608,23,1102,1155,30,234
+Longford Westmeath,Magan,Manchï¿½n,,2,0,0,9941,1654,7,1102,1109,30,234
+Longford Westmeath,Magan,Manchï¿½n,,6,0,0,9817,1530,78,1102,1233,30,234
+Longford Westmeath,Magan,Manchï¿½n,,7,0,0,9791,1504,26,1102,1259,30,234
+Longford Westmeath,Magan,Manchï¿½n,,3,0,0,9930,1643,11,1102,1120,30,234
+Longford Westmeath,Magan,Manchï¿½n,,4,0,0,9918,1631,12,1102,1132,30,234
+Longford Westmeath,Magan,Manchï¿½n,,8,0,0,9657,1370,134,1102,1393,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,9,0,9,0,1370,-1393,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,10,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,11,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,12,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,13,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,14,0,9,0,1370,0,1102,0,30,234
+Longford Westmeath,Magan,Manchï¿½n,Excluded,15,0,9,0,1370,0,1102,0,30,234
 Meath West,Malone,John,Excluded,3,0,3,0,1928,-486,439,0,39,183
 Meath West,Malone,John,Excluded,4,0,3,0,1928,0,439,0,39,183
 Meath West,Malone,John,Excluded,5,0,3,0,1928,0,439,0,39,183
@@ -3188,17 +3189,17 @@ Dublin Rathdown,Martin,Catherine,,3,0,0,5463,0,498,4122,4812,18,225
 Dublin Rathdown,Martin,Catherine,,4,0,0,4170,0,1293,4122,6105,18,225
 Dublin Rathdown,Martin,Catherine,,5,0,0,3020,0,1150,4122,7255,18,225
 Dublin Rathdown,Martin,Catherine,Elected,6,0,6,854,0,2166,4122,9421,18,225
-Cork South Central,Martin,Micheál,Elected,2,0,1,0,0,0,11346,11346,7,251
-Cork South Central,Martin,Micheál,Elected,1,0,1,0,0,0,11346,11346,7,251
-Cork South Central,Martin,Micheál,Elected,6,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,7,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,11,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,8,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,3,1905,1,0,0,-209,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,4,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,5,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,9,1905,1,0,0,0,11346,11137,7,251
-Cork South Central,Martin,Micheál,Elected,10,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,2,0,1,0,0,0,11346,11346,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,1,0,1,0,0,0,11346,11346,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,6,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,7,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,11,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,8,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,3,1905,1,0,0,-209,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,4,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,5,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,9,1905,1,0,0,0,11346,11137,7,251
+Cork South Central,Martin,Micheï¿½l,Elected,10,1905,1,0,0,0,11346,11137,7,251
 Dublin Rathdown,Mathews,Peter,,1,0,0,8254,548,0,2021,2021,18,226
 Dublin Rathdown,Mathews,Peter,,2,0,0,8034,328,220,2021,2241,18,226
 Dublin Rathdown,Mathews,Peter,Excluded,3,0,3,0,328,-2241,2021,0,18,226
@@ -3516,12 +3517,12 @@ Dublin South West,McMahon,Ronan,Excluded,13,0,11,0,0,0,2906,0,19,214
 Dublin South West,McMahon,Ronan,Excluded,14,0,11,0,0,0,2906,0,19,214
 Dublin South West,McMahon,Ronan,Excluded,15,0,11,0,0,0,2906,0,19,214
 Dublin South West,McMahon,Ronan,Excluded,16,0,11,0,0,0,2906,0,19,214
-Meath West,McMenamin,Séamus,,3,0,0,8065,827,68,1421,1587,39,185
-Meath West,McMenamin,Séamus,,4,0,0,7845,607,220,1421,1807,39,185
-Meath West,McMenamin,Séamus,,5,0,0,7474,236,371,1421,2178,39,185
-Meath West,McMenamin,Séamus,,1,0,0,8231,993,0,1421,1421,39,185
-Meath West,McMenamin,Séamus,,2,0,0,8133,895,98,1421,1519,39,185
-Meath West,McMenamin,Séamus,Excluded,6,0,6,0,236,-2178,1421,0,39,185
+Meath West,McMenamin,Sï¿½amus,,3,0,0,8065,827,68,1421,1587,39,185
+Meath West,McMenamin,Sï¿½amus,,4,0,0,7845,607,220,1421,1807,39,185
+Meath West,McMenamin,Sï¿½amus,,5,0,0,7474,236,371,1421,2178,39,185
+Meath West,McMenamin,Sï¿½amus,,1,0,0,8231,993,0,1421,1421,39,185
+Meath West,McMenamin,Sï¿½amus,,2,0,0,8133,895,98,1421,1519,39,185
+Meath West,McMenamin,Sï¿½amus,Excluded,6,0,6,0,236,-2178,1421,0,39,185
 Dublin Mid West,McNally,Anne-Marie,,11,0,0,4161,0,781,2633,4460,643,198
 Dublin Mid West,McNally,Anne-Marie,,12,0,12,3301,0,860,2633,5320,643,198
 Dublin Mid West,McNally,Anne-Marie,,1,0,0,5988,0,0,2633,2633,643,198
@@ -3602,13 +3603,13 @@ Dublin Bay North,Mitchell,Denise,,12,0,0,3885,0,105,5039,8386,13,171
 Dublin Bay North,Mitchell,Denise,,13,0,0,3675,0,210,5039,8596,13,171
 Dublin Bay North,Mitchell,Denise,,14,0,0,3224,0,451,5039,9047,13,171
 Dublin Bay North,Mitchell,Denise,Elected,15,0,15,923,0,2301,5039,11348,13,171
-Dún Laoghaire,Mitchell O'Connor,Mary,,1,0,0,3993,0,0,10817,10817,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,,2,0,0,3722,0,271,10817,11088,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,,3,0,0,3680,0,42,10817,11130,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,,4,0,0,3377,0,303,10817,11433,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,,5,0,0,2843,0,534,10817,11967,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,,6,0,0,2417,0,426,10817,12393,21,238
-Dún Laoghaire,Mitchell O'Connor,Mary,Elected,7,0,7,0,0,2548,10817,14941,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,1,0,0,3993,0,0,10817,10817,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,2,0,0,3722,0,271,10817,11088,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,3,0,0,3680,0,42,10817,11130,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,4,0,0,3377,0,303,10817,11433,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,5,0,0,2843,0,534,10817,11967,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,,6,0,0,2417,0,426,10817,12393,21,238
+Dï¿½n Laoghaire,Mitchell O'Connor,Mary,Elected,7,0,7,0,0,2548,10817,14941,21,238
 Cork South Central,Mohally,Michael Joseph,,2,0,0,10964,2612,3,170,173,7,253
 Cork South Central,Mohally,Michael Joseph,,1,0,0,10967,2615,0,170,170,7,253
 Cork South Central,Mohally,Michael Joseph,Excluded,6,0,4,0,2609,0,170,0,7,253
@@ -3739,13 +3740,13 @@ Kerry,Moriarty,Norma,,8,0,0,7961,0,80,4348,5252,24,172
 Kerry,Moriarty,Norma,,2,0,0,8320,0,545,4348,4893,24,172
 Kerry,Moriarty,Norma,,3,0,0,8201,0,119,4348,5012,24,172
 Kerry,Moriarty,Norma,Excluded,11,0,10,0,0,0,4348,0,24,172
-Tipperary,Morris,Séamus Séan,Excluded,6,0,5,0,0,0,5724,0,36,170
-Tipperary,Morris,Séamus Séan,Excluded,7,0,5,0,0,0,5724,0,36,170
-Tipperary,Morris,Séamus Séan,,1,0,0,7268,0,0,5724,5724,36,170
-Tipperary,Morris,Séamus Séan,,4,0,0,6787,0,167,5724,6205,36,170
-Tipperary,Morris,Séamus Séan,Excluded,5,0,5,0,0,-6205,5724,0,36,170
-Tipperary,Morris,Séamus Séan,,2,0,0,7071,0,197,5724,5921,36,170
-Tipperary,Morris,Séamus Séan,,3,0,0,6954,0,117,5724,6038,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,Excluded,6,0,5,0,0,0,5724,0,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,Excluded,7,0,5,0,0,0,5724,0,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,,1,0,0,7268,0,0,5724,5724,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,,4,0,0,6787,0,167,5724,6205,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,Excluded,5,0,5,0,0,-6205,5724,0,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,,2,0,0,7071,0,197,5724,5921,36,170
+Tipperary,Morris,Sï¿½amus Sï¿½an,,3,0,0,6954,0,117,5724,6038,36,170
 Cork North West,Moynihan,Aindrias,,1,0,0,2816,0,0,8924,8924,6,181
 Cork North West,Moynihan,Aindrias,,2,0,0,2736,0,80,8924,9004,6,181
 Cork North West,Moynihan,Aindrias,,3,0,0,2539,0,197,8924,9201,6,181
@@ -3983,22 +3984,22 @@ Limerick County,Neville,Tom,,5,0,0,1887,0,343,8013,9217,29,164
 Limerick County,Neville,Tom,Elected,6,0,6,735,0,1152,8013,10369,29,164
 Limerick County,Neville,Tom,,1,0,0,3091,0,0,8013,8013,29,164
 Limerick County,Neville,Tom,,2,0,0,2890,0,201,8013,8214,29,164
-Galway East,Ní Chróinín,Máiréad,Excluded,5,0,2,0,2059,0,769,0,22,167
-Galway East,Ní Chróinín,Máiréad,Excluded,6,0,2,0,2059,0,769,0,22,167
-Galway East,Ní Chróinín,Máiréad,Excluded,7,0,2,0,2059,0,769,0,22,167
-Galway East,Ní Chróinín,Máiréad,Excluded,3,0,2,0,2059,0,769,0,22,167
-Galway East,Ní Chróinín,Máiréad,Excluded,4,0,2,0,2059,0,769,0,22,167
-Galway East,Ní Chróinín,Máiréad,,1,0,0,10541,2059,0,769,769,22,167
-Galway East,Ní Chróinín,Máiréad,Excluded,2,0,2,0,2059,-769,769,0,22,167
-Kildare North,Ní Fhallúin,Maebh,,6,0,0,7369,29,399,1485,2419,26,169
-Kildare North,Ní Fhallúin,Maebh,,1,0,0,8303,963,0,1485,1485,26,169
-Kildare North,Ní Fhallúin,Maebh,Excluded,7,0,7,0,29,-2419,1485,0,26,169
-Kildare North,Ní Fhallúin,Maebh,Excluded,8,0,7,0,29,0,1485,0,26,169
-Kildare North,Ní Fhallúin,Maebh,,2,0,0,8139,799,164,1485,1649,26,169
-Kildare North,Ní Fhallúin,Maebh,,3,0,0,8073,733,66,1485,1715,26,169
-Kildare North,Ní Fhallúin,Maebh,Excluded,9,0,7,0,29,0,1485,0,26,169
-Kildare North,Ní Fhallúin,Maebh,,4,0,0,7984,644,89,1485,1804,26,169
-Kildare North,Ní Fhallúin,Maebh,,5,0,0,7768,428,216,1485,2020,26,169
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,5,0,2,0,2059,0,769,0,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,6,0,2,0,2059,0,769,0,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,7,0,2,0,2059,0,769,0,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,3,0,2,0,2059,0,769,0,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,4,0,2,0,2059,0,769,0,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,,1,0,0,10541,2059,0,769,769,22,167
+Galway East,Nï¿½ Chrï¿½inï¿½n,Mï¿½irï¿½ad,Excluded,2,0,2,0,2059,-769,769,0,22,167
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,6,0,0,7369,29,399,1485,2419,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,1,0,0,8303,963,0,1485,1485,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,Excluded,7,0,7,0,29,-2419,1485,0,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,Excluded,8,0,7,0,29,0,1485,0,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,2,0,0,8139,799,164,1485,1649,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,3,0,0,8073,733,66,1485,1715,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,Excluded,9,0,7,0,29,0,1485,0,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,4,0,0,7984,644,89,1485,1804,26,169
+Kildare North,Nï¿½ Fhallï¿½in,Maebh,,5,0,0,7768,428,216,1485,2020,26,169
 Dublin Rathdown,Nic Cormaic,Sorcha,,1,0,0,7417,0,0,2858,2858,18,227
 Dublin Rathdown,Nic Cormaic,Sorcha,,2,0,0,7379,0,38,2858,2896,18,227
 Dublin Rathdown,Nic Cormaic,Sorcha,,3,0,0,7199,0,180,2858,3076,18,227
@@ -4073,90 +4074,90 @@ Clare,Norton,Ann,,3,0,0,8959,409,121,2240,2442,3,172
 Clare,Norton,Ann,,8,0,0,8196,0,53,2240,3205,3,172
 Clare,Norton,Ann,,5,0,0,8715,165,165,2240,2686,3,172
 Clare,Norton,Ann,Excluded,12,0,9,0,0,0,2240,0,3,172
-Dublin Mid West,Ó Broin,Eoin,Elected,11,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,12,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,1,0,1,0,0,0,9782,9782,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,2,553,1,0,0,-1161,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,3,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,4,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,5,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,6,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,7,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,8,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,9,553,1,0,0,0,9782,8621,643,199
-Dublin Mid West,Ó Broin,Eoin,Elected,10,553,1,0,0,0,9782,8621,643,199
-Meath East,Ó Buachalla,Seán,,1,0,0,9582,1822,0,766,766,34,188
-Meath East,Ó Buachalla,Seán,,2,0,0,9564,1804,18,766,784,34,188
-Meath East,Ó Buachalla,Seán,,3,0,0,9547,1787,17,766,801,34,188
-Meath East,Ó Buachalla,Seán,,4,0,0,9495,1735,52,766,853,34,188
-Meath East,Ó Buachalla,Seán,Excluded,5,0,5,0,1735,-853,766,0,34,188
-Meath East,Ó Buachalla,Seán,Excluded,6,0,5,0,1735,0,766,0,34,188
-Meath East,Ó Buachalla,Seán,Excluded,7,0,5,0,1735,0,766,0,34,188
-Meath East,Ó Buachalla,Seán,Excluded,8,0,5,0,1735,0,766,0,34,188
-Meath East,Ó Buachalla,Seán,Excluded,9,0,5,0,1735,0,766,0,34,188
-Cork South Central,Ó Cadhla,Diarmaid,,2,0,0,10252,1900,16,869,885,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,1,0,0,10268,1916,0,869,869,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,6,0,0,10030,1678,60,869,1107,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,7,0,0,9949,1597,81,869,1188,7,254
-Cork South Central,Ó Cadhla,Diarmaid,Excluded,11,0,8,0,1597,0,869,0,7,254
-Cork South Central,Ó Cadhla,Diarmaid,Excluded,8,0,8,0,1597,-1188,869,0,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,3,0,0,10246,1894,6,869,891,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,4,0,0,10196,1844,50,869,941,7,254
-Cork South Central,Ó Cadhla,Diarmaid,,5,0,0,10090,1738,106,869,1047,7,254
-Cork South Central,Ó Cadhla,Diarmaid,Excluded,9,0,8,0,1597,0,869,0,7,254
-Cork South Central,Ó Cadhla,Diarmaid,Excluded,10,0,8,0,1597,0,869,0,7,254
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,1,0,0,1871,0,0,10060,10060,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,2,0,0,1827,0,44,10060,10104,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,3,0,0,1812,0,15,10060,10119,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,4,0,0,1666,0,146,10060,10265,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,5,0,0,1516,0,150,10060,10415,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,6,0,0,1280,0,236,10060,10651,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,7,0,0,884,0,396,10060,11047,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,,8,0,0,64,0,820,10060,11867,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,Elected,9,0,9,0,0,5315,10060,17182,2,166
-Cavan Monaghan,Ó Caoláin,Caoimhghín,Elected,10,3201,9,0,0,-5251,10060,11931,2,166
-Galway West,Ó Cuív,Éamon,,1,0,0,1173,0,0,9539,9539,23,165
-Galway West,Ó Cuív,Éamon,,2,0,0,1138,0,35,9539,9574,23,165
-Galway West,Ó Cuív,Éamon,,3,0,0,1033,0,105,9539,9679,23,165
-Galway West,Ó Cuív,Éamon,Elected,9,0,9,0,0,928,9539,11103,23,165
-Galway West,Ó Cuív,Éamon,,4,0,0,1011,0,22,9539,9701,23,165
-Galway West,Ó Cuív,Éamon,,5,0,0,949,0,62,9539,9763,23,165
-Galway West,Ó Cuív,Éamon,Elected,10,0,9,0,0,0,9539,11103,23,165
-Galway West,Ó Cuív,Éamon,Elected,11,124,9,0,0,-391,9539,10712,23,165
-Galway West,Ó Cuív,Éamon,,6,0,0,690,0,259,9539,10022,23,165
-Galway West,Ó Cuív,Éamon,,7,0,0,633,0,57,9539,10079,23,165
-Galway West,Ó Cuív,Éamon,Elected,12,124,9,0,0,0,9539,10712,23,165
-Galway West,Ó Cuív,Éamon,,8,0,0,537,0,96,9539,10175,23,165
-Galway West,Ó Cuív,Éamon,Elected,13,124,9,0,0,0,9539,10712,23,165
-Galway West,Ó Cuív,Éamon,Elected,14,124,9,0,0,0,9539,10712,23,165
-Kildare South,Ó Fearghaíl,Seán,,1,0,0,2728,0,0,6469,6469,187,179
-Kildare South,Ó Fearghaíl,Seán,,2,0,0,2614,0,114,6469,6583,187,179
-Kildare South,Ó Fearghaíl,Seán,,3,0,0,2306,0,308,6469,6891,187,179
-Kildare South,Ó Fearghaíl,Seán,,4,0,0,2031,0,275,6469,7166,187,179
-Kildare South,Ó Fearghaíl,Seán,,5,0,0,1854,0,177,6469,7343,187,179
-Kildare South,Ó Fearghaíl,Seán,Elected,6,0,6,977,0,877,6469,8220,187,179
-Dublin South Central,Ó Halmhain,Oisín,Excluded,10,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,,1,0,0,7162,734,0,1410,1410,16,170
-Dublin South Central,Ó Halmhain,Oisín,,2,0,0,7141,713,21,1410,1431,16,170
-Dublin South Central,Ó Halmhain,Oisín,,3,0,0,7058,630,83,1410,1514,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,11,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,4,0,4,0,630,-1514,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,5,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,6,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,7,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,8,0,4,0,630,0,1410,0,16,170
-Dublin South Central,Ó Halmhain,Oisín,Excluded,9,0,4,0,630,0,1410,0,16,170
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,1,0,0,4151,0,0,6986,6986,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,2,0,0,4047,0,104,6986,7090,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,6,0,0,3723,0,157,6986,7414,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,7,0,0,3613,0,110,6986,7524,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,Elected,11,0,11,484,0,2127,6986,10653,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,8,0,0,3260,0,353,6986,7877,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,3,0,0,4015,0,32,6986,7122,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,4,0,0,3985,0,30,6986,7152,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,5,0,0,3880,0,105,6986,7257,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,9,0,0,2771,0,489,6986,8366,7,256
-Cork South Central,Ó Laoghaire,Donnchadh Uinseann,,10,0,0,2611,0,160,6986,8526,7,256
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,11,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,12,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,1,0,1,0,0,0,9782,9782,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,2,553,1,0,0,-1161,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,3,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,4,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,5,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,6,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,7,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,8,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,9,553,1,0,0,0,9782,8621,643,199
+Dublin Mid West,ï¿½ Broin,Eoin,Elected,10,553,1,0,0,0,9782,8621,643,199
+Meath East,ï¿½ Buachalla,Seï¿½n,,1,0,0,9582,1822,0,766,766,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,,2,0,0,9564,1804,18,766,784,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,,3,0,0,9547,1787,17,766,801,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,,4,0,0,9495,1735,52,766,853,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,Excluded,5,0,5,0,1735,-853,766,0,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,Excluded,6,0,5,0,1735,0,766,0,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,Excluded,7,0,5,0,1735,0,766,0,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,Excluded,8,0,5,0,1735,0,766,0,34,188
+Meath East,ï¿½ Buachalla,Seï¿½n,Excluded,9,0,5,0,1735,0,766,0,34,188
+Cork South Central,ï¿½ Cadhla,Diarmaid,,2,0,0,10252,1900,16,869,885,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,1,0,0,10268,1916,0,869,869,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,6,0,0,10030,1678,60,869,1107,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,7,0,0,9949,1597,81,869,1188,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,Excluded,11,0,8,0,1597,0,869,0,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,Excluded,8,0,8,0,1597,-1188,869,0,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,3,0,0,10246,1894,6,869,891,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,4,0,0,10196,1844,50,869,941,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,,5,0,0,10090,1738,106,869,1047,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,Excluded,9,0,8,0,1597,0,869,0,7,254
+Cork South Central,ï¿½ Cadhla,Diarmaid,Excluded,10,0,8,0,1597,0,869,0,7,254
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,1,0,0,1871,0,0,10060,10060,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,2,0,0,1827,0,44,10060,10104,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,3,0,0,1812,0,15,10060,10119,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,4,0,0,1666,0,146,10060,10265,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,5,0,0,1516,0,150,10060,10415,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,6,0,0,1280,0,236,10060,10651,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,7,0,0,884,0,396,10060,11047,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,,8,0,0,64,0,820,10060,11867,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,Elected,9,0,9,0,0,5315,10060,17182,2,166
+Cavan Monaghan,ï¿½ Caolï¿½in,Caoimhghï¿½n,Elected,10,3201,9,0,0,-5251,10060,11931,2,166
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,1,0,0,1173,0,0,9539,9539,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,2,0,0,1138,0,35,9539,9574,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,3,0,0,1033,0,105,9539,9679,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,9,0,9,0,0,928,9539,11103,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,4,0,0,1011,0,22,9539,9701,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,5,0,0,949,0,62,9539,9763,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,10,0,9,0,0,0,9539,11103,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,11,124,9,0,0,-391,9539,10712,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,6,0,0,690,0,259,9539,10022,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,7,0,0,633,0,57,9539,10079,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,12,124,9,0,0,0,9539,10712,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,,8,0,0,537,0,96,9539,10175,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,13,124,9,0,0,0,9539,10712,23,165
+Galway West,ï¿½ Cuï¿½v,ï¿½amon,Elected,14,124,9,0,0,0,9539,10712,23,165
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,,1,0,0,2728,0,0,6469,6469,187,179
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,,2,0,0,2614,0,114,6469,6583,187,179
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,,3,0,0,2306,0,308,6469,6891,187,179
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,,4,0,0,2031,0,275,6469,7166,187,179
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,,5,0,0,1854,0,177,6469,7343,187,179
+Kildare South,ï¿½ Fearghaï¿½l,Seï¿½n,Elected,6,0,6,977,0,877,6469,8220,187,179
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,10,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,,1,0,0,7162,734,0,1410,1410,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,,2,0,0,7141,713,21,1410,1431,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,,3,0,0,7058,630,83,1410,1514,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,11,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,4,0,4,0,630,-1514,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,5,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,6,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,7,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,8,0,4,0,630,0,1410,0,16,170
+Dublin South Central,ï¿½ Halmhain,Oisï¿½n,Excluded,9,0,4,0,630,0,1410,0,16,170
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,1,0,0,4151,0,0,6986,6986,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,2,0,0,4047,0,104,6986,7090,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,6,0,0,3723,0,157,6986,7414,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,7,0,0,3613,0,110,6986,7524,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,Elected,11,0,11,484,0,2127,6986,10653,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,8,0,0,3260,0,353,6986,7877,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,3,0,0,4015,0,32,6986,7122,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,4,0,0,3985,0,30,6986,7152,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,5,0,0,3880,0,105,6986,7257,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,9,0,0,2771,0,489,6986,8366,7,256
+Cork South Central,ï¿½ Laoghaire,Donnchadh Uinseann,,10,0,0,2611,0,160,6986,8526,7,256
 Galway West,O Mahony,John,,1,0,0,5978,0,0,4734,4734,23,175
 Galway West,O Mahony,John,,2,0,0,5968,0,10,4734,4744,23,175
 Galway West,O Mahony,John,,9,0,0,5490,0,226,4734,5222,23,175
@@ -4171,75 +4172,75 @@ Galway West,O Mahony,John,,8,0,0,5716,0,31,4734,4996,23,175
 Galway West,O Mahony,John,,12,0,0,4860,0,261,4734,5852,23,175
 Galway West,O Mahony,John,,13,0,0,4590,0,270,4734,6122,23,175
 Galway West,O Mahony,John,Excluded,14,0,14,0,0,-6122,4734,0,23,175
-Dublin Bay North,Ó Muirí,Naoise,,1,0,0,9403,200,0,2868,2868,13,175
-Dublin Bay North,Ó Muirí,Naoise,,3,0,0,9396,193,5,2868,2875,13,175
-Dublin Bay North,Ó Muirí,Naoise,,2,0,0,9401,198,2,2868,2870,13,175
-Dublin Bay North,Ó Muirí,Naoise,,4,0,0,9366,163,30,2868,2905,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,9,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,,5,0,0,9363,160,3,2868,2908,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,10,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,,6,0,0,8895,0,468,2868,3376,13,175
-Dublin Bay North,Ó Muirí,Naoise,,7,0,0,8890,0,5,2868,3381,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,8,0,8,0,0,-3381,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,11,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,12,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,13,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,14,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Muirí,Naoise,Excluded,15,0,8,0,0,0,2868,0,13,175
-Dublin Bay North,Ó Ríordáin,Aodhán,,1,0,0,6596,0,0,5675,5675,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,3,0,0,6570,0,18,5675,5701,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,2,0,0,6588,0,8,5675,5683,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,4,0,0,6351,0,219,5675,5920,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,9,0,0,5214,0,476,5675,7057,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,5,0,0,6339,0,12,5675,5932,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,10,0,0,4972,0,242,5675,7299,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,6,0,0,6088,0,251,5675,6183,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,7,0,0,6070,0,18,5675,6201,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,8,0,0,5690,0,380,5675,6581,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,11,0,0,4951,0,21,5675,7320,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,12,0,0,4727,0,224,5675,7544,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,13,0,0,3724,0,1003,5675,8547,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,14,0,0,2324,0,1400,5675,9947,13,177
-Dublin Bay North,Ó Ríordáin,Aodhán,,15,0,15,1942,0,382,5675,10329,13,177
-Dublin South Central,Ó Snodaigh,Aengus,Elected,9,512,7,0,0,0,6639,8572,16,171
-Dublin South Central,Ó Snodaigh,Aengus,Elected,10,512,7,0,0,0,6639,8572,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,1,0,0,1933,0,0,6639,6639,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,2,0,0,1882,0,51,6639,6690,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,3,0,0,1857,0,25,6639,6715,16,171
-Dublin South Central,Ó Snodaigh,Aengus,Elected,11,512,7,0,0,0,6639,8572,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,4,0,0,1838,0,19,6639,6734,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,5,0,0,1645,0,193,6639,6927,16,171
-Dublin South Central,Ó Snodaigh,Aengus,,6,0,0,1511,0,134,6639,7061,16,171
-Dublin South Central,Ó Snodaigh,Aengus,Elected,7,0,7,0,0,2505,6639,9566,16,171
-Dublin South Central,Ó Snodaigh,Aengus,Elected,8,512,7,0,0,-994,6639,8572,16,171
-Galway West,Ó Tuathail,Niall,,1,0,0,7257,0,0,3455,3455,23,177
-Galway West,Ó Tuathail,Niall,,2,0,0,7224,0,33,3455,3488,23,177
-Galway West,Ó Tuathail,Niall,,9,0,0,5987,0,51,3455,4725,23,177
-Galway West,Ó Tuathail,Niall,,3,0,0,7146,0,78,3455,3566,23,177
-Galway West,Ó Tuathail,Niall,,4,0,0,6978,0,168,3455,3734,23,177
-Galway West,Ó Tuathail,Niall,,10,0,0,5443,0,544,3455,5269,23,177
-Galway West,Ó Tuathail,Niall,,5,0,0,6909,0,69,3455,3803,23,177
-Galway West,Ó Tuathail,Niall,,6,0,0,6862,0,47,3455,3850,23,177
-Galway West,Ó Tuathail,Niall,,7,0,0,6368,0,494,3455,4344,23,177
-Galway West,Ó Tuathail,Niall,,11,0,0,5434,0,9,3455,5278,23,177
-Galway West,Ó Tuathail,Niall,,8,0,0,6038,0,330,3455,4674,23,177
-Galway West,Ó Tuathail,Niall,Excluded,12,0,12,0,0,-5278,3455,0,23,177
-Galway West,Ó Tuathail,Niall,Excluded,13,0,12,0,0,0,3455,0,23,177
-Galway West,Ó Tuathail,Niall,Excluded,14,0,12,0,0,0,3455,0,23,177
-Cork North West,O’ Donnell,Michael,,1,0,0,11555,2751,0,185,185,6,198
-Cork North West,O’ Donnell,Michael,Excluded,2,0,2,0,2751,-185,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,3,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,4,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,5,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,6,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,7,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,9,0,2,0,2751,0,185,0,6,198
-Cork North West,O’ Donnell,Michael,Excluded,8,0,2,0,2751,0,185,0,6,198
-Cork South West,O’ Mahony,Johnny,,1,0,0,10063,1952,0,752,752,8,201
-Cork South West,O’ Mahony,Johnny,Excluded,2,0,2,0,1952,-752,752,0,8,201
-Cork South West,O’ Mahony,Johnny,Excluded,3,0,2,0,1952,0,752,0,8,201
-Cork South West,O’ Mahony,Johnny,Excluded,4,0,2,0,1952,0,752,0,8,201
-Cork South West,O’ Mahony,Johnny,Excluded,5,0,2,0,1952,0,752,0,8,201
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,1,0,0,9403,200,0,2868,2868,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,3,0,0,9396,193,5,2868,2875,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,2,0,0,9401,198,2,2868,2870,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,4,0,0,9366,163,30,2868,2905,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,9,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,5,0,0,9363,160,3,2868,2908,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,10,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,6,0,0,8895,0,468,2868,3376,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,,7,0,0,8890,0,5,2868,3381,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,8,0,8,0,0,-3381,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,11,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,12,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,13,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,14,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Muirï¿½,Naoise,Excluded,15,0,8,0,0,0,2868,0,13,175
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,1,0,0,6596,0,0,5675,5675,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,3,0,0,6570,0,18,5675,5701,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,2,0,0,6588,0,8,5675,5683,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,4,0,0,6351,0,219,5675,5920,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,9,0,0,5214,0,476,5675,7057,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,5,0,0,6339,0,12,5675,5932,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,10,0,0,4972,0,242,5675,7299,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,6,0,0,6088,0,251,5675,6183,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,7,0,0,6070,0,18,5675,6201,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,8,0,0,5690,0,380,5675,6581,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,11,0,0,4951,0,21,5675,7320,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,12,0,0,4727,0,224,5675,7544,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,13,0,0,3724,0,1003,5675,8547,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,14,0,0,2324,0,1400,5675,9947,13,177
+Dublin Bay North,ï¿½ Rï¿½ordï¿½in,Aodhï¿½n,,15,0,15,1942,0,382,5675,10329,13,177
+Dublin South Central,ï¿½ Snodaigh,Aengus,Elected,9,512,7,0,0,0,6639,8572,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,Elected,10,512,7,0,0,0,6639,8572,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,1,0,0,1933,0,0,6639,6639,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,2,0,0,1882,0,51,6639,6690,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,3,0,0,1857,0,25,6639,6715,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,Elected,11,512,7,0,0,0,6639,8572,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,4,0,0,1838,0,19,6639,6734,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,5,0,0,1645,0,193,6639,6927,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,,6,0,0,1511,0,134,6639,7061,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,Elected,7,0,7,0,0,2505,6639,9566,16,171
+Dublin South Central,ï¿½ Snodaigh,Aengus,Elected,8,512,7,0,0,-994,6639,8572,16,171
+Galway West,ï¿½ Tuathail,Niall,,1,0,0,7257,0,0,3455,3455,23,177
+Galway West,ï¿½ Tuathail,Niall,,2,0,0,7224,0,33,3455,3488,23,177
+Galway West,ï¿½ Tuathail,Niall,,9,0,0,5987,0,51,3455,4725,23,177
+Galway West,ï¿½ Tuathail,Niall,,3,0,0,7146,0,78,3455,3566,23,177
+Galway West,ï¿½ Tuathail,Niall,,4,0,0,6978,0,168,3455,3734,23,177
+Galway West,ï¿½ Tuathail,Niall,,10,0,0,5443,0,544,3455,5269,23,177
+Galway West,ï¿½ Tuathail,Niall,,5,0,0,6909,0,69,3455,3803,23,177
+Galway West,ï¿½ Tuathail,Niall,,6,0,0,6862,0,47,3455,3850,23,177
+Galway West,ï¿½ Tuathail,Niall,,7,0,0,6368,0,494,3455,4344,23,177
+Galway West,ï¿½ Tuathail,Niall,,11,0,0,5434,0,9,3455,5278,23,177
+Galway West,ï¿½ Tuathail,Niall,,8,0,0,6038,0,330,3455,4674,23,177
+Galway West,ï¿½ Tuathail,Niall,Excluded,12,0,12,0,0,-5278,3455,0,23,177
+Galway West,ï¿½ Tuathail,Niall,Excluded,13,0,12,0,0,0,3455,0,23,177
+Galway West,ï¿½ Tuathail,Niall,Excluded,14,0,12,0,0,0,3455,0,23,177
+Cork North West,Oï¿½ Donnell,Michael,,1,0,0,11555,2751,0,185,185,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,2,0,2,0,2751,-185,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,3,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,4,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,5,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,6,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,7,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,9,0,2,0,2751,0,185,0,6,198
+Cork North West,Oï¿½ Donnell,Michael,Excluded,8,0,2,0,2751,0,185,0,6,198
+Cork South West,Oï¿½ Mahony,Johnny,,1,0,0,10063,1952,0,752,752,8,201
+Cork South West,Oï¿½ Mahony,Johnny,Excluded,2,0,2,0,1952,-752,752,0,8,201
+Cork South West,Oï¿½ Mahony,Johnny,Excluded,3,0,2,0,1952,0,752,0,8,201
+Cork South West,Oï¿½ Mahony,Johnny,Excluded,4,0,2,0,1952,0,752,0,8,201
+Cork South West,Oï¿½ Mahony,Johnny,Excluded,5,0,2,0,1952,0,752,0,8,201
 Mayo,O'Boyle,Gerry,Excluded,9,0,4,0,3053,0,126,0,32,172
 Mayo,O'Boyle,Gerry,Excluded,10,0,4,0,3053,0,126,0,32,172
 Mayo,O'Boyle,Gerry,Excluded,5,0,4,0,3053,0,126,0,32,172
@@ -4319,13 +4320,13 @@ Clare,O'Brien,Niamh,Excluded,3,0,3,0,1635,-1216,1154,0,3,173
 Clare,O'Brien,Niamh,Excluded,8,0,3,0,1635,0,1154,0,3,173
 Clare,O'Brien,Niamh,Excluded,5,0,3,0,1635,0,1154,0,3,173
 Clare,O'Brien,Niamh,Excluded,12,0,3,0,1635,0,1154,0,3,173
-Dún Laoghaire,O'Brien,Shane,,1,0,0,11643,536,0,3167,3167,21,239
-Dún Laoghaire,O'Brien,Shane,,2,0,0,11601,494,42,3167,3209,21,239
-Dún Laoghaire,O'Brien,Shane,Excluded,3,0,3,0,494,-3209,3167,0,21,239
-Dún Laoghaire,O'Brien,Shane,Excluded,4,0,3,0,494,0,3167,0,21,239
-Dún Laoghaire,O'Brien,Shane,Excluded,5,0,3,0,494,0,3167,0,21,239
-Dún Laoghaire,O'Brien,Shane,Excluded,6,0,3,0,494,0,3167,0,21,239
-Dún Laoghaire,O'Brien,Shane,Excluded,7,0,3,0,494,0,3167,0,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,,1,0,0,11643,536,0,3167,3167,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,,2,0,0,11601,494,42,3167,3209,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,Excluded,3,0,3,0,494,-3209,3167,0,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,Excluded,4,0,3,0,494,0,3167,0,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,Excluded,5,0,3,0,494,0,3167,0,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,Excluded,6,0,3,0,494,0,3167,0,21,239
+Dï¿½n Laoghaire,O'Brien,Shane,Excluded,7,0,3,0,494,0,3167,0,21,239
 Dublin Bay North,O'Callaghan,Cian,,1,0,0,8407,0,0,3864,3864,13,173
 Dublin Bay North,O'Callaghan,Cian,,3,0,0,8362,0,34,3864,3909,13,173
 Dublin Bay North,O'Callaghan,Cian,,2,0,0,8396,0,11,3864,3875,13,173
@@ -4349,21 +4350,21 @@ Dublin Bay South,O'Callaghan,Jim,,7,0,0,1263,0,709,4575,6678,17,184
 Dublin Bay South,O'Callaghan,Jim,Elected,8,0,8,1020,0,243,4575,6921,17,184
 Dublin Bay South,O'Callaghan,Jim,,5,0,0,2992,0,205,4575,4949,17,184
 Dublin Bay South,O'Callaghan,Jim,,6,0,0,1972,0,1020,4575,5969,17,184
-Dublin Bay North,O'Conaráin,Proinsias,,1,0,0,12167,2964,0,104,104,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,3,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,2,0,2,0,2964,-104,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,4,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,9,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,5,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,6,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,10,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,7,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,8,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,11,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,12,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,13,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,14,0,2,0,2964,0,104,0,13,174
-Dublin Bay North,O'Conaráin,Proinsias,Excluded,15,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,,1,0,0,12167,2964,0,104,104,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,3,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,2,0,2,0,2964,-104,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,4,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,9,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,5,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,6,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,10,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,7,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,8,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,11,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,12,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,13,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,14,0,2,0,2964,0,104,0,13,174
+Dublin Bay North,O'Conarï¿½in,Proinsias,Excluded,15,0,2,0,2964,0,104,0,13,174
 Cavan Monaghan,O'Connell,Aoife,,1,0,0,11652,2704,0,279,279,2,167
 Cavan Monaghan,O'Connell,Aoife,,2,0,0,11649,2701,3,279,282,2,167
 Cavan Monaghan,O'Connell,Aoife,,3,0,0,11639,2691,10,279,292,2,167
@@ -4662,20 +4663,20 @@ Dublin Bay North,O'Neill,Damien,Excluded,12,0,5,0,1551,0,1446,0,13,176
 Dublin Bay North,O'Neill,Damien,Excluded,13,0,5,0,1551,0,1446,0,13,176
 Dublin Bay North,O'Neill,Damien,Excluded,14,0,5,0,1551,0,1446,0,13,176
 Dublin Bay North,O'Neill,Damien,Excluded,15,0,5,0,1551,0,1446,0,13,176
-Galway West,O'Neill,Ruairí,,1,0,0,10560,2527,0,152,152,23,176
-Galway West,O'Neill,Ruairí,Excluded,2,0,2,0,2527,-152,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,9,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,3,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,4,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,10,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,5,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,6,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,7,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,11,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,8,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,12,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,13,0,2,0,2527,0,152,0,23,176
-Galway West,O'Neill,Ruairí,Excluded,14,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,,1,0,0,10560,2527,0,152,152,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,2,0,2,0,2527,-152,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,9,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,3,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,4,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,10,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,5,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,6,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,7,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,11,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,8,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,12,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,13,0,2,0,2527,0,152,0,23,176
+Galway West,O'Neill,Ruairï¿½,Excluded,14,0,2,0,2527,0,152,0,23,176
 Cavan Monaghan,O'Reilly,Joe,,1,0,0,5365,0,0,6566,6566,2,168
 Cavan Monaghan,O'Reilly,Joe,,2,0,0,5085,0,280,6566,6846,2,168
 Cavan Monaghan,O'Reilly,Joe,,3,0,0,5083,0,2,6566,6848,2,168
@@ -4847,11 +4848,11 @@ Sligo Leitrim,Perry,John,Excluded,11,0,10,0,0,0,4403,0,35,175
 Sligo Leitrim,Perry,John,Excluded,12,0,10,0,0,0,4403,0,35,175
 Sligo Leitrim,Perry,John,Excluded,13,0,10,0,0,0,4403,0,35,175
 Sligo Leitrim,Perry,John,Excluded,14,0,10,0,0,0,4403,0,35,175
-Cork South West,Pettit O’leary,Fiona,,1,0,0,10392,2281,0,423,423,8,202
-Cork South West,Pettit O’leary,Fiona,Excluded,2,0,2,0,2281,-423,423,0,8,202
-Cork South West,Pettit O’leary,Fiona,Excluded,3,0,2,0,2281,0,423,0,8,202
-Cork South West,Pettit O’leary,Fiona,Excluded,4,0,2,0,2281,0,423,0,8,202
-Cork South West,Pettit O’leary,Fiona,Excluded,5,0,2,0,2281,0,423,0,8,202
+Cork South West,Pettit Oï¿½leary,Fiona,,1,0,0,10392,2281,0,423,423,8,202
+Cork South West,Pettit Oï¿½leary,Fiona,Excluded,2,0,2,0,2281,-423,423,0,8,202
+Cork South West,Pettit Oï¿½leary,Fiona,Excluded,3,0,2,0,2281,0,423,0,8,202
+Cork South West,Pettit Oï¿½leary,Fiona,Excluded,4,0,2,0,2281,0,423,0,8,202
+Cork South West,Pettit Oï¿½leary,Fiona,Excluded,5,0,2,0,2281,0,423,0,8,202
 Carlow Kilkenny,Phelan,Ann,,2,0,0,7273,0,5,4391,4396,1,171
 Carlow Kilkenny,Phelan,Ann,,3,0,0,7227,0,46,4391,4442,1,171
 Carlow Kilkenny,Phelan,Ann,Excluded,10,0,9,0,0,0,4391,0,1,171
@@ -5080,17 +5081,17 @@ Dublin Bay South,Ryan,Eamon,,4,0,0,2664,0,348,4529,5277,17,189
 Dublin Bay South,Ryan,Eamon,Elected,8,636,7,0,0,-847,4529,7941,17,189
 Dublin Bay South,Ryan,Eamon,,6,0,0,381,0,955,4529,7560,17,189
 Dublin Bay South,Ryan,Eamon,Elected,7,0,7,0,0,1228,4529,8788,17,189
-Dublin Central,Ryan,Éilis,Excluded,4,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,5,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,6,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,,1,0,0,5619,1178,0,303,303,11,173
-Dublin Central,Ryan,Éilis,Excluded,8,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,9,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,7,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,10,0,3,0,1165,0,303,0,11,173
-Dublin Central,Ryan,Éilis,,2,0,0,5606,1165,13,303,316,11,173
-Dublin Central,Ryan,Éilis,Excluded,3,0,3,0,1165,-316,303,0,11,173
-Dublin Central,Ryan,Éilis,Excluded,11,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,4,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,5,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,6,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,,1,0,0,5619,1178,0,303,303,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,8,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,9,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,7,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,10,0,3,0,1165,0,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,,2,0,0,5606,1165,13,303,316,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,3,0,3,0,1165,-316,303,0,11,173
+Dublin Central,Ryan,ï¿½ilis,Excluded,11,0,3,0,1165,0,303,0,11,173
 Cork South Central,Ryan,Fiona,,1,0,0,10200,1848,0,937,937,7,257
 Cork South Central,Ryan,Fiona,,2,0,0,10183,1831,17,937,954,7,257
 Cork South Central,Ryan,Fiona,,6,0,0,9645,1293,455,937,1492,7,257
@@ -5174,20 +5175,20 @@ Donegal,Sheils,Dessie,Excluded,13,0,10,0,0,0,3724,0,9,175
 Donegal,Sheils,Dessie,,5,0,0,8052,0,180,3724,4166,9,175
 Donegal,Sheils,Dessie,,6,0,0,7930,0,122,3724,4288,9,175
 Donegal,Sheils,Dessie,,7,0,0,7755,0,175,3724,4463,9,175
-Galway West,Sheridan,Séamus,,1,0,0,9124,1091,0,1588,1588,23,179
-Galway West,Sheridan,Séamus,,2,0,0,9095,1061,29,1588,1617,23,179
-Galway West,Sheridan,Séamus,Excluded,9,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,,3,0,0,9045,1011,50,1588,1667,23,179
-Galway West,Sheridan,Séamus,,4,0,0,8957,923,88,1588,1755,23,179
-Galway West,Sheridan,Séamus,Excluded,10,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,,5,0,0,8933,899,24,1588,1779,23,179
-Galway West,Sheridan,Séamus,,6,0,0,8899,865,34,1588,1813,23,179
-Galway West,Sheridan,Séamus,Excluded,11,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,Excluded,7,0,7,0,865,-1813,1588,0,23,179
-Galway West,Sheridan,Séamus,Excluded,8,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,Excluded,12,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,Excluded,13,0,7,0,865,0,1588,0,23,179
-Galway West,Sheridan,Séamus,Excluded,14,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,,1,0,0,9124,1091,0,1588,1588,23,179
+Galway West,Sheridan,Sï¿½amus,,2,0,0,9095,1061,29,1588,1617,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,9,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,,3,0,0,9045,1011,50,1588,1667,23,179
+Galway West,Sheridan,Sï¿½amus,,4,0,0,8957,923,88,1588,1755,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,10,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,,5,0,0,8933,899,24,1588,1779,23,179
+Galway West,Sheridan,Sï¿½amus,,6,0,0,8899,865,34,1588,1813,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,11,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,7,0,7,0,865,-1813,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,8,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,12,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,13,0,7,0,865,0,1588,0,23,179
+Galway West,Sheridan,Sï¿½amus,Excluded,14,0,7,0,865,0,1588,0,23,179
 Cork East,Sherlock,Sean,,1,0,0,3613,0,0,6949,6949,4,163
 Cork East,Sherlock,Sean,,2,0,0,3438,0,175,6949,7124,4,163
 Cork East,Sherlock,Sean,Elected,10,1356,9,0,0,-1241,6949,10562,4,163
@@ -5198,15 +5199,15 @@ Cork East,Sherlock,Sean,,6,0,0,1888,0,894,6949,8674,4,163
 Cork East,Sherlock,Sean,,7,0,0,1576,0,312,6949,8986,4,163
 Cork East,Sherlock,Sean,,8,0,0,646,0,930,6949,9916,4,163
 Cork East,Sherlock,Sean,Elected,9,0,9,0,0,1887,6949,11803,4,163
-Dublin North West,Shortall,Róisín,Elected,1,0,1,0,0,0,10540,10540,15,170
-Dublin North West,Shortall,Róisín,Elected,2,436,1,0,0,-1287,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,9,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,3,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,4,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,5,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,6,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,7,436,1,0,0,0,10540,9253,15,170
-Dublin North West,Shortall,Róisín,Elected,8,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,1,0,1,0,0,0,10540,10540,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,2,436,1,0,0,-1287,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,9,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,3,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,4,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,5,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,6,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,7,436,1,0,0,0,10540,9253,15,170
+Dublin North West,Shortall,Rï¿½isï¿½n,Elected,8,436,1,0,0,0,10540,9253,15,170
 Dublin South West,Sinclair,Stephen,,1,0,0,10853,2445,0,359,359,19,219
 Dublin South West,Sinclair,Stephen,,2,0,0,10837,2429,16,359,375,19,219
 Dublin South West,Sinclair,Stephen,,3,0,0,10827,2419,10,359,385,19,219
@@ -5245,17 +5246,17 @@ Cavan Monaghan,Smith,Brendan,,7,0,0,2789,0,96,8775,9142,2,170
 Cavan Monaghan,Smith,Brendan,,8,0,0,1005,0,1784,8775,10926,2,170
 Cavan Monaghan,Smith,Brendan,,9,0,0,574,0,431,8775,11357,2,170
 Cavan Monaghan,Smith,Brendan,Elected,10,0,10,0,0,763,8775,12120,2,170
-Dublin South Central,Smith,Bríd,,9,0,0,1162,0,767,4374,7410,16,172
-Dublin South Central,Smith,Bríd,,10,0,0,736,0,426,4374,7836,16,172
-Dublin South Central,Smith,Bríd,,1,0,0,4198,0,0,4374,4374,16,172
-Dublin South Central,Smith,Bríd,,2,0,0,4096,0,102,4374,4476,16,172
-Dublin South Central,Smith,Bríd,,3,0,0,4045,0,51,4374,4527,16,172
-Dublin South Central,Smith,Bríd,Elected,11,0,11,693,0,43,4374,7879,16,172
-Dublin South Central,Smith,Bríd,,4,0,0,3843,0,202,4374,4729,16,172
-Dublin South Central,Smith,Bríd,,5,0,0,3379,0,464,4374,5193,16,172
-Dublin South Central,Smith,Bríd,,6,0,0,2719,0,660,4374,5853,16,172
-Dublin South Central,Smith,Bríd,,7,0,0,2364,0,355,4374,6208,16,172
-Dublin South Central,Smith,Bríd,,8,0,0,1929,0,435,4374,6643,16,172
+Dublin South Central,Smith,Brï¿½d,,9,0,0,1162,0,767,4374,7410,16,172
+Dublin South Central,Smith,Brï¿½d,,10,0,0,736,0,426,4374,7836,16,172
+Dublin South Central,Smith,Brï¿½d,,1,0,0,4198,0,0,4374,4374,16,172
+Dublin South Central,Smith,Brï¿½d,,2,0,0,4096,0,102,4374,4476,16,172
+Dublin South Central,Smith,Brï¿½d,,3,0,0,4045,0,51,4374,4527,16,172
+Dublin South Central,Smith,Brï¿½d,Elected,11,0,11,693,0,43,4374,7879,16,172
+Dublin South Central,Smith,Brï¿½d,,4,0,0,3843,0,202,4374,4729,16,172
+Dublin South Central,Smith,Brï¿½d,,5,0,0,3379,0,464,4374,5193,16,172
+Dublin South Central,Smith,Brï¿½d,,6,0,0,2719,0,660,4374,5853,16,172
+Dublin South Central,Smith,Brï¿½d,,7,0,0,2364,0,355,4374,6208,16,172
+Dublin South Central,Smith,Brï¿½d,,8,0,0,1929,0,435,4374,6643,16,172
 Cavan Monaghan,Smith,Emmett,,1,0,0,11686,2738,0,245,245,2,171
 Cavan Monaghan,Smith,Emmett,,2,0,0,11685,2737,1,245,246,2,171
 Cavan Monaghan,Smith,Emmett,,3,0,0,11673,2725,12,245,258,2,171
@@ -5307,13 +5308,13 @@ Longford Westmeath,Smyth,Barbara,Excluded,12,0,5,0,2451,0,296,0,30,243
 Longford Westmeath,Smyth,Barbara,Excluded,13,0,5,0,2451,0,296,0,30,243
 Longford Westmeath,Smyth,Barbara,Excluded,14,0,5,0,2451,0,296,0,30,243
 Longford Westmeath,Smyth,Barbara,Excluded,15,0,5,0,2451,0,296,0,30,243
-Dún Laoghaire,Smyth,Carrie,,1,0,0,9618,0,0,5192,5192,21,240
-Dún Laoghaire,Smyth,Carrie,,2,0,0,9514,0,104,5192,5296,21,240
-Dún Laoghaire,Smyth,Carrie,,3,0,0,9425,0,89,5192,5385,21,240
-Dún Laoghaire,Smyth,Carrie,,4,0,0,9071,0,354,5192,5739,21,240
-Dún Laoghaire,Smyth,Carrie,,5,0,0,7915,0,1156,5192,6895,21,240
-Dún Laoghaire,Smyth,Carrie,,6,0,0,7645,0,270,5192,7165,21,240
-Dún Laoghaire,Smyth,Carrie,Excluded,7,0,7,0,0,-7165,5192,0,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,1,0,0,9618,0,0,5192,5192,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,2,0,0,9514,0,104,5192,5296,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,3,0,0,9425,0,89,5192,5385,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,4,0,0,9071,0,354,5192,5739,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,5,0,0,7915,0,1156,5192,6895,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,,6,0,0,7645,0,270,5192,7165,21,240
+Dï¿½n Laoghaire,Smyth,Carrie,Excluded,7,0,7,0,0,-7165,5192,0,21,240
 Dublin Central,Smyth,Ian Noel,,4,0,0,5226,785,22,644,696,11,174
 Dublin Central,Smyth,Ian Noel,Excluded,5,0,5,0,785,-696,644,0,11,174
 Dublin Central,Smyth,Ian Noel,Excluded,6,0,5,0,785,0,644,0,11,174
@@ -5345,13 +5346,13 @@ Cavan Monaghan,Smyth,Niamh,,7,0,0,5189,0,158,6268,6742,2,173
 Cavan Monaghan,Smyth,Niamh,,8,0,0,3715,0,1474,6268,8216,2,173
 Cavan Monaghan,Smyth,Niamh,,9,0,0,3169,0,546,6268,8762,2,173
 Cavan Monaghan,Smyth,Niamh,Elected,10,0,10,2287,0,882,6268,9644,2,173
-Dún Laoghaire,Smyth,Ossian,,1,0,0,11332,225,0,3478,3478,21,241
-Dún Laoghaire,Smyth,Ossian,,2,0,0,11133,26,199,3478,3677,21,241
-Dún Laoghaire,Smyth,Ossian,,3,0,0,10977,0,156,3478,3833,21,241
-Dún Laoghaire,Smyth,Ossian,,4,0,0,10060,0,917,3478,4750,21,241
-Dún Laoghaire,Smyth,Ossian,Excluded,5,0,5,0,0,-4750,3478,0,21,241
-Dún Laoghaire,Smyth,Ossian,Excluded,6,0,5,0,0,0,3478,0,21,241
-Dún Laoghaire,Smyth,Ossian,Excluded,7,0,5,0,0,0,3478,0,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,,1,0,0,11332,225,0,3478,3478,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,,2,0,0,11133,26,199,3478,3677,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,,3,0,0,10977,0,156,3478,3833,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,,4,0,0,10060,0,917,3478,4750,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,Excluded,5,0,5,0,0,-4750,3478,0,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,Excluded,6,0,5,0,0,0,3478,0,21,241
+Dï¿½n Laoghaire,Smyth,Ossian,Excluded,7,0,5,0,0,0,3478,0,21,241
 Kerry,Spring,Arthur J.,,3,0,0,8177,0,25,4813,5036,24,176
 Kerry,Spring,Arthur J.,,4,0,0,8146,0,31,4813,5067,24,176
 Kerry,Spring,Arthur J.,,6,0,0,7932,0,188,4813,5281,24,176
@@ -5452,12 +5453,12 @@ Dublin Mid West,Timmons,Francis,,7,0,0,7303,838,85,1085,1318,643,200
 Dublin Mid West,Timmons,Francis,,8,0,0,7199,734,104,1085,1422,643,200
 Dublin Mid West,Timmons,Francis,Excluded,9,0,9,0,734,-1422,1085,0,643,200
 Dublin Mid West,Timmons,Francis,Excluded,10,0,9,0,734,0,1085,0,643,200
-Meath West,Tóibín,Peadar,Elected,3,0,2,0,0,0,9442,9713,39,186
-Meath West,Tóibín,Peadar,Elected,4,0,2,0,0,0,9442,9713,39,186
-Meath West,Tóibín,Peadar,Elected,5,0,2,0,0,0,9442,9713,39,186
-Meath West,Tóibín,Peadar,,1,0,0,210,0,0,9442,9442,39,186
-Meath West,Tóibín,Peadar,Elected,2,0,2,0,0,271,9442,9713,39,186
-Meath West,Tóibín,Peadar,Elected,6,0,2,0,0,0,9442,9713,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,Elected,3,0,2,0,0,0,9442,9713,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,Elected,4,0,2,0,0,0,9442,9713,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,Elected,5,0,2,0,0,0,9442,9713,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,,1,0,0,210,0,0,9442,9442,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,Elected,2,0,2,0,0,271,9442,9713,39,186
+Meath West,Tï¿½ibï¿½n,Peadar,Elected,6,0,2,0,0,0,9442,9713,39,186
 Longford Westmeath,Troy,Robert,Elected,1,0,1,0,0,0,11653,11653,30,244
 Longford Westmeath,Troy,Robert,Elected,5,362,1,0,0,0,11653,11050,30,244
 Longford Westmeath,Troy,Robert,Elected,6,362,1,0,0,0,11653,11050,30,244
@@ -5631,13 +5632,13 @@ Dublin Rathdown,White,Mary,,3,0,0,5514,0,436,4220,4761,18,231
 Dublin Rathdown,White,Mary,,4,0,0,5110,0,404,4220,5165,18,231
 Dublin Rathdown,White,Mary,,5,0,0,4812,0,298,4220,5463,18,231
 Dublin Rathdown,White,Mary,Excluded,6,0,6,0,0,-5463,4220,0,18,231
-Dún Laoghaire,Whitehead,Raymond,,1,0,0,14597,3490,0,213,213,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,2,0,2,0,3490,-213,213,0,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,3,0,2,0,3490,0,213,0,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,4,0,2,0,3490,0,213,0,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,5,0,2,0,3490,0,213,0,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,6,0,2,0,3490,0,213,0,21,242
-Dún Laoghaire,Whitehead,Raymond,Excluded,7,0,2,0,3490,0,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,,1,0,0,14597,3490,0,213,213,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,2,0,2,0,3490,-213,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,3,0,2,0,3490,0,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,4,0,2,0,3490,0,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,5,0,2,0,3490,0,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,6,0,2,0,3490,0,213,0,21,242
+Dï¿½n Laoghaire,Whitehead,Raymond,Excluded,7,0,2,0,3490,0,213,0,21,242
 Cavan Monaghan,Wilson,John,,1,0,0,10908,1960,0,1023,1023,2,174
 Cavan Monaghan,Wilson,John,,2,0,0,10902,1954,6,1023,1029,2,174
 Cavan Monaghan,Wilson,John,,3,0,0,10895,1947,7,1023,1036,2,174

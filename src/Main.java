@@ -1,3 +1,6 @@
+import Calculators.Calculator;
+import Calculators.PercentageCalculator;
+import Database.DBConnector;
 import Objects.Candidate;
 import Objects.Constituency;
 import Objects.Party;
@@ -8,14 +11,20 @@ import Reader.PartyReader;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 import Reader.RoundReader;
+import Calculators.PercentageCalculator;
 
 /**
  * Created by EoinH on 15/05/2017.
  */
 public class Main {
     public static void main(String args[]) throws FileNotFoundException {
+        //createDatabase();
+
+    }
+    public static void createDatabase()throws FileNotFoundException{
         PartyReader partyReader = new PartyReader("Data/PartyDetails");
         String[] partyList = partyReader.givePartyList();
         ArrayList<Party> parties= partyReader.give();
@@ -34,7 +43,22 @@ public class Main {
         roundReader.printAll();
         ArrayList<Round> rounds = roundReader.give();
 
-        Calculator calculator = new PercentageCalculator(candidates,constituencies,parties, rounds);
+        PercentageCalculator calculator = new PercentageCalculator(candidates,constituencies,parties, rounds);
+        calculator.DivideCandidates();
+        calculator.CalculateCandidates();
+        calculator.CalculateConstituency();
+        calculator.CalculateParties();
+
+        DBConnector connector = new DBConnector();
+        //connector.writeParties(parties);
+        //connector.writeCandidates(candidates);
+        //connector.writeConstituencies(constituencies);
+        //connector.writeRounds(rounds);
+
+        System.out.print("About to end.");
+    }
+    public void newPrediction(){
+        Scanner in = new Scanner(System.in);
 
     }
 }

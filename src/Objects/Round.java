@@ -11,15 +11,19 @@ public class Round {
     int canid;
     String candidate;
     String constituency;
-    boolean elected;
+    String status;
     int votes;
 
-    public Round(int rid, int eid, String constituency, String candidate,boolean elected,int number,int votes){
+    public Round(int rid, int eid, String constituency, String candidate,String status,int number,int votes){
         this.number = number;
         this.rid = rid;
         this.eid = eid;
         this.candidate =candidate;
-        this.elected = elected;
+        if (status.isEmpty())
+            this.status = "Active";
+        else
+            this.status = status;
+
         this.constituency =constituency;
         this.votes = votes;
     }
@@ -47,12 +51,13 @@ public class Round {
         canid = id;
     }
 
+    public int getNumber(){return number;}
     public int getRid(){return rid;}
     public int getEid(){return eid;}
     public int getConid(){return conid;}
     public int getCanid(){return canid;}
     public String getCandidate(){return candidate;}
     public String getConstituency(){return constituency;}
-    public boolean isElected(){return elected;}
+    public String getStatus(){return status;}
     public int getVotes(){return votes;}
 }
