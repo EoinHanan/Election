@@ -43,10 +43,10 @@ public class Candidate {
                 found = true;
                 id =i;
             }
-                System.out.println(party + " Equals " + parties[i] + " : " + found);
-            }
+            //System.out.println(party + " Equals " + parties[i] + " : " + found);
+        }
         pid = id;
-        System.out.println(pid);
+        //System.out.println(pid);
     }
 
     public void setConid(String [] constituencies){
@@ -57,9 +57,9 @@ public class Candidate {
                 found = true;
                 id = i;
             }
-            System.out.println(constituency + " Eqauls " + constituencies[i] + " : " + found);
+            //System.out.println(constituency + " Eqauls " + constituencies[i] + " : " + found);
         }
         conid = id;
-        System.out.println(conid);
+        //System.out.println(conid);
     }
 }

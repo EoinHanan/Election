@@ -1,6 +1,7 @@
 import Calculators.Calculator;
 import Calculators.PercentageCalculator;
 import Database.DBConnector;
+import Database.DBReader;
 import Objects.Candidate;
 import Objects.Constituency;
 import Objects.Party;
@@ -21,8 +22,9 @@ import Calculators.PercentageCalculator;
  */
 public class Main {
     public static void main(String args[]) throws FileNotFoundException {
-        //createDatabase();
-
+        createDatabase();
+        //DBReader reader = new DBReader();
+        //reader.readConstituency("Wicklow");
     }
     public static void createDatabase()throws FileNotFoundException{
         PartyReader partyReader = new PartyReader("Data/PartyDetails");
@@ -40,18 +42,12 @@ public class Main {
 
         RoundReader roundReader = new RoundReader("Data/CountDetails", 2016);
         roundReader.setIDs( conList,canList);
-        roundReader.printAll();
+        //roundReader.printAll();
         ArrayList<Round> rounds = roundReader.give();
-
-        PercentageCalculator calculator = new PercentageCalculator(candidates,constituencies,parties, rounds);
-        calculator.DivideCandidates();
-        calculator.CalculateCandidates();
-        calculator.CalculateConstituency();
-        calculator.CalculateParties();
 
         DBConnector connector = new DBConnector();
         //connector.writeParties(parties);
-        //connector.writeCandidates(candidates);
+        connector.writeCandidates(candidates);
         //connector.writeConstituencies(constituencies);
         //connector.writeRounds(rounds);
 

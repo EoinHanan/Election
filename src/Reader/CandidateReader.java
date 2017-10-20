@@ -23,7 +23,7 @@ public class CandidateReader extends Reader {
         candidates = new ArrayList<Candidate>();
 
         if (file.exists()) {
-            System.out.println("Inside file");
+            //System.out.println("Inside file");
             in = new Scanner(file);
             in.useDelimiter(";");
             int i =0;

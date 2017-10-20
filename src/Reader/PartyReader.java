@@ -23,7 +23,7 @@ public class PartyReader extends Reader {
         parties = new ArrayList<Party>();
 
         if (file.exists()) {
-            System.out.println("Inside file");
+            //System.out.println("Inside file");
             in = new Scanner(file);
             in.useDelimiter(";");
             int i =0;

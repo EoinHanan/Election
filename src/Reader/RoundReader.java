@@ -25,7 +25,7 @@ public class RoundReader {
         rounds = new ArrayList<Round>();
 
         if (file.exists()) {
-            System.out.println("Inside file");
+            //System.out.println("Inside file");
             in = new Scanner(file);
             in.useDelimiter(";");
             int i = 0;

@@ -55,7 +55,7 @@ public class DBConnector {
         }
     }
 
-
+/*
     public void getData(){
         try{
             String query = "select * from persons";
@@ -73,7 +73,7 @@ public class DBConnector {
         }catch(Exception ex){
             System.out.println(ex);
         }
-    }
+    }*/
 
     private void write(Candidate candidate){
         try{
@@ -90,10 +90,7 @@ public class DBConnector {
         }
     }
     private void write(Constituency constituency){
-
-
         try{
-
             PreparedStatement pstmt = connection.prepareStatement("INSERT INTO `constituencies` (`ConID`, `Turnout`, `Name`, `Seats`, `Population`, `Spoiled`) VALUES (NULL,?,?,?,?,?)");
             pstmt.setInt(1, constituency.getPoll2016());
             pstmt.setString(2, constituency.getName());
@@ -101,8 +98,6 @@ public class DBConnector {
             pstmt.setInt(4, constituency.getElectorate2016());
             pstmt.setInt(5, constituency.getSpoiled2016());
             pstmt.executeUpdate();
-
-
         }catch (Exception ex){
             System.out.println("Error: " + ex);
         }

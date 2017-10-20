@@ -24,11 +24,10 @@ public class ConstituencyReader extends Reader {
         constituencies = new ArrayList<Constituency>();
 
         if (file.exists()) {
-            System.out.println("Inside file");
+            //System.out.println("Inside file");
             in = new Scanner(file);
             in.useDelimiter(";");
-            System.out.println("in.hasNextLine" + in.hasNextLine());
-            System.out.println("in.hasNext" + in.hasNext());
+
             while (in.hasNextLine()){
                 line = in.nextLine();
                 elements = line.split(";");

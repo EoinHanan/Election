@@ -16,11 +16,8 @@ public class PercentageCalculator extends Calculator{
     ArrayList <Constituency> constituencies;
     ArrayList <Party> parties;
     ArrayList <Round> rounds;
-    public PercentageCalculator (ArrayList<Candidate> candidates, ArrayList<Constituency> constituencies, ArrayList<Party> parties, ArrayList<Round> rounds){
-        this.candidates = candidates;
-        this.constituencies = constituencies;
-        this.parties = parties;
-        this.rounds = rounds;
+    public PercentageCalculator (){
+
     }
 
     public void DivideCandidates(){
