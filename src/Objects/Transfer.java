@@ -4,26 +4,36 @@ package Objects;
  * Created by EoinH on 10/06/2017.
  */
 public class Transfer {
-    private int vote;
-    private int canID;
+    private int fromCanID;
+    private int toCanID;
     private double percentage;
-    Transfer(int vote, int canID){
-        this.vote = vote;
-        this.canID = canID;
+    private boolean found;
+
+    public Transfer(int fromCanID, int toCanID){
+        this.fromCanID = fromCanID;
+        this.toCanID = toCanID;
+        this.found = false;
     }
-    Transfer(int vote, int canID, double percentage){
-        this.vote = vote;
-        this.canID = canID;
+    public Transfer(int fromCanID, int toCanID, double percentage){
+        this.fromCanID = fromCanID;
+        this.toCanID = toCanID;
         this.percentage = percentage;
+        this.found = true;
     }
 
-    public int getVote(){
-        return vote;
+    public int getFromCanID(){
+        return fromCanID;
     }
-    public int getCanID(){
-        return canID;
+    public int getToCanID(){
+        return toCanID;
     }
     public double getPercentage(){
         return percentage;
+    }
+    public void setPercentage(double percentage){
+        this.percentage = percentage;
+    }
+    public boolean isFound(){
+        return found;
     }
 }

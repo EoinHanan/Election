@@ -31,8 +31,9 @@ public class CandidateReader extends Reader {
                 line = in.nextLine();
                 elements = line.split(";");
                 candidates.add(new Candidate(i,elements[0],elements[1],elements[2],elements[3],Integer.parseInt(elements[4])));
+               // System.out.println(i + line);
                 i++;
-                //System.out.println(line);
+
             }
             in.close();
         }

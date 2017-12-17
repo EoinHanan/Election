@@ -112,7 +112,7 @@ Roscommon Galway;Shane Curran;M;F.F.;2006
 Cork  East;Ken Curtin;M;S.D.;1386
 Dublin Fingal;Clare Daly;F;I.4.C;9480
 Cork South West;Jim Daly;M;F.G.;7370
-Wexford;Michael D'arcy;M;F.G.;7798
+Wexford;Michael D''arcy;M;F.G.;7798
 Dublin Rathdown;Alan Daveron;M;R.I.;1055
 Galway West;Nicola Daveron;F;R.I.;994
 Dublin Fingal;Dr. Marcus De Brun;M;NON-P.;627
@@ -347,13 +347,13 @@ Galway East;Aengus Melia;M;D.D.I.;489
 Kildare North;Ashling Merriman;F;AAA-PBP;781
 Longford Westmeath;James Miller;M;NON-P.;208
 Dublin Bay North;DeNise Mitchell;F;S.F.;5039
-Dun Laoghaire;Mary Mitchell O'Connor;F;F.G.;10817
+Dun Laoghaire;Mary Mitchell O''Connor;F;F.G.;10817
 Cork South Central;Michael Joseph Mohally;M;NON-P.;170
 Dublin Fingal;Dr. Gerry Molloy;M;R.I.;2091
 Dublin Bay South;Annette Mooney;F;AAA-PBP;1728
 Donegal;Michael Mooney;M;NON-P.;397
 Laois;Sinead Moore;F;G.P.;1541
-Longford Westmeath;Kevin 'Boxer' Moran;M;NON-P.;7586
+Longford Westmeath;Kevin ''Boxer'' Moran;M;NON-P.;7586
 Louth;Mary Moran;F;LAB.;1198
 Clare;Noeleen Moran;F;S.F.;4216
 Cork North Central;Oliver Moran;M;G.P.;1693
@@ -366,7 +366,7 @@ Cork North West;Michael MoyNihan;M;F.F.;7332
 Mayo;Michelle Mulherin;F;F.G.;7841
 Clare;Dermot Mulqueen;M;NON-P.;39
 Louth;Imelda Munster;F;S.F.;8829
-Carlow Kilkenny;JenNifer Murnane-O'Connor;F;F.F.;8373
+Carlow Kilkenny;JenNifer Murnane-O''Connor;F;F.F.;8373
 Kildare North;Catherine Murphy;F;S.D.;11108
 Cork North Central;Dara Murphy;M;F.G.;5264
 Dublin Bay South;Eoghan Murphy;M;F.G.;6567
@@ -376,7 +376,7 @@ Tipperary;Marie Murphy;F;F.G.;1542
 Cork North Central;Mick Murphy;M;NON-P.;215
 Dublin South West;Paul Murphy;M;AAA-PBP;9005
 Dublin Fingal;Tony Murphy;M;NON-P.;2503
-Cork South West;Margaret Murphy O'Mahony;F;F.F.;8482
+Cork South West;Margaret Murphy O''Mahony;F;F.F.;8482
 Sligo Leitrim;Eamon Murray;M;NON-P.;356
 Dublin South Central;Richard Murray;M;NON-P.;294
 Wexford;John Mythen;M;S.F.;7260
@@ -406,67 +406,67 @@ Dublin Bay North;Naoise O MuirI;M;F.G.;2868
 Dublin Bay North;Aodhan O RIordain;M;LAB.;5675
 Dublin South Central;Aengus O Snodaigh;M;S.F.;6639
 Galway West;Niall O Tuathail;M;S.D.;3455
-Cork North West;Michael O' Donnell;M;C.P.I.;185
-Cork South West;Johnny O' Mahony;M;G.P.;752
-Mayo;Gerry O'Boyle;M;NON-P.;126
-Dublin Fingal;Darragh O'Brien;M;F.F.;10826
-Limerick County;Emmett O'Brien;M;NON-P.;5432
-Dublin West;Jo O'Brien;F;R.I.;677
-Dublin Fingal;Joe O'Brien;M;G.P.;2783
-Cork North Central;Jonathan O'Brien;M;S.F.;6231
-Dublin Bay North;Michael O'Brien;M;AAA-PBP;2236
-Clare;Niamh O'Brien;F;F.N.;1154
-Dun Laoghaire;Shane O'Brien;M;S.F.;3167
-Dublin Bay North;Cian O'Callaghan;M;S.D.;3864
-Dublin Bay South;Jim O'Callaghan;M;F.F.;4575
-Dublin Bay North;Proinsias O'Conarain;M;NON-P.;104
-Cavan Monaghan;Aoife O'Connell;F;D.D.I.;279
-Dublin Fingal;Fergal O'Connell;M;NON-P.;51
-Cork South Central;Jim O'Connell;M;AAA-PBP;795
-Dublin Bay South;Kate O'Connell;F;F.G.;5399
-Limerick City;Willie O'Dea;M;F.F.;12999
-Kerry;Grace O'Donnell;F;F.G.;776
-Limerick City;Kieran O'Donnell;M;F.G.;6047
-Limerick County;Richard O'Donoghue;M;NON-P.;2855
-Dublin South West;Deirdre O'Donovan;F;NON-P.;2197
-Limerick County;Patrick O'Donovan;M;F.G.;8479
-Louth;Fergus O'Dowd;M;F.G.;6814
-Louth;Michael O'Dowd;M;R.I.;2095
-Dublin Central;Diana O'Dwyer;F;AAA-PBP;721
-Cork North West;Diarmuid O'Flynn;M;NON-P.;2159
-Dublin South West;Frank O'Gorman;M;NON-P.;59
-Limerick County;John O'Gorman;M;NON-P.;207
-Kerry;Michael Pixie O'Gorman;M;NON-P.;1236
-Dublin West;Roderic O'Gorman;M;G.P.;1730
-Sligo Leitrim;BerNie O'Hara;F;NON-P.;1206
-Sligo Leitrim;Leslie V. John O'Hora;M;G.P.;603
-Cork  East;Kevin O'Keeffe;M;F.F.;8264
-Sligo Leitrim;Susan O'Keeffe;F;LAB.;1829
-Cork North Central;Julie O'Leary;F;F.G.;3841
-Cork North Central;Paddy O'Leary;M;R.I.;1120
-Kildare South;Fiona O'Loughlin;F;F.F.;6906
-Cork North Central;Peter O'Loughlin;M;NON-P.;183
-Mayo;George O'Malley;M;NON-P.;262
-Meath East;Aisling O'Neill;F;S.D.;1715
-Dublin Bay North;Damien O'Neill;M;NON-P.;1446
-Galway West;RuairI O'Neill;M;D.D.I.;152
-Cavan Monaghan;Joe O'Reilly;M;F.G.;6566
-Dublin Fingal;Louise O'Reilly;F;S.F.;5228
-Cork North West;Steven O'Riordan;M;NON-P.;1361
-Meath East;Darren O'Rourke;M;S.F.;5780
-Kildare North;Frank O'Rourke;M;F.F.;6341
-Sligo Leitrim;Paddy O'Rourke;M;F.F.;5447
-Cork North West;John Paul O'Shea;M;NON-P.;4814
-Kildare North;Elizabeth O'Sullivan;F;NON-P.;99
-Waterford;Grace O'Sullivan;F;G.P.;2237
-Limerick City;Jan O'Sullivan;F;LAB.;5227
-Cork North West;Jerry O'Sullivan;M;NON-P.;478
-Dublin Central;Maureen O'Sullivan;F;NON-P.;1990
+Cork North West;Michael O'' Donnell;M;C.P.I.;185
+Cork South West;Johnny O'' Mahony;M;G.P.;752
+Mayo;Gerry O''Boyle;M;NON-P.;126
+Dublin Fingal;Darragh O''Brien;M;F.F.;10826
+Limerick County;Emmett O''Brien;M;NON-P.;5432
+Dublin West;Jo O''Brien;F;R.I.;677
+Dublin Fingal;Joe O''Brien;M;G.P.;2783
+Cork North Central;Jonathan O''Brien;M;S.F.;6231
+Dublin Bay North;Michael O''Brien;M;AAA-PBP;2236
+Clare;Niamh O''Brien;F;F.N.;1154
+Dun Laoghaire;Shane O''Brien;M;S.F.;3167
+Dublin Bay North;Cian O''Callaghan;M;S.D.;3864
+Dublin Bay South;Jim O''Callaghan;M;F.F.;4575
+Dublin Bay North;Proinsias O''Conarain;M;NON-P.;104
+Cavan Monaghan;Aoife O''Connell;F;D.D.I.;279
+Dublin Fingal;Fergal O''Connell;M;NON-P.;51
+Cork South Central;Jim O''Connell;M;AAA-PBP;795
+Dublin Bay South;Kate O''Connell;F;F.G.;5399
+Limerick City;Willie O''Dea;M;F.F.;12999
+Kerry;Grace O''Donnell;F;F.G.;776
+Limerick City;Kieran O''Donnell;M;F.G.;6047
+Limerick County;Richard O''Donoghue;M;NON-P.;2855
+Dublin South West;Deirdre O''Donovan;F;NON-P.;2197
+Limerick County;Patrick O''Donovan;M;F.G.;8479
+Louth;Fergus O''Dowd;M;F.G.;6814
+Louth;Michael O''Dowd;M;R.I.;2095
+Dublin Central;Diana O''Dwyer;F;AAA-PBP;721
+Cork North West;Diarmuid O''Flynn;M;NON-P.;2159
+Dublin South West;Frank O''Gorman;M;NON-P.;59
+Limerick County;John O''Gorman;M;NON-P.;207
+Kerry;Michael Pixie O''Gorman;M;NON-P.;1236
+Dublin West;Roderic O''Gorman;M;G.P.;1730
+Sligo Leitrim;BerNie O''Hara;F;NON-P.;1206
+Sligo Leitrim;Leslie V. John O''Hora;M;G.P.;603
+Cork  East;Kevin O''Keeffe;M;F.F.;8264
+Sligo Leitrim;Susan O''Keeffe;F;LAB.;1829
+Cork North Central;Julie O''Leary;F;F.G.;3841
+Cork North Central;Paddy O''Leary;M;R.I.;1120
+Kildare South;Fiona O''Loughlin;F;F.F.;6906
+Cork North Central;Peter O''Loughlin;M;NON-P.;183
+Mayo;George O''Malley;M;NON-P.;262
+Meath East;Aisling O''Neill;F;S.D.;1715
+Dublin Bay North;Damien O''Neill;M;NON-P.;1446
+Galway West;RuairI O''Neill;M;D.D.I.;152
+Cavan Monaghan;Joe O''Reilly;M;F.G.;6566
+Dublin Fingal;Louise O''Reilly;F;S.F.;5228
+Cork North West;Steven O''Riordan;M;NON-P.;1361
+Meath East;Darren O''Rourke;M;S.F.;5780
+Kildare North;Frank O''Rourke;M;F.F.;6341
+Sligo Leitrim;Paddy O''Rourke;M;F.F.;5447
+Cork North West;John Paul O''Shea;M;NON-P.;4814
+Kildare North;Elizabeth O''Sullivan;F;NON-P.;99
+Waterford;Grace O''Sullivan;F;G.P.;2237
+Limerick City;Jan O''Sullivan;F;LAB.;5227
+Cork North West;Jerry O''Sullivan;M;NON-P.;478
+Dublin Central;Maureen O''Sullivan;F;NON-P.;1990
 Longford Westmeath;DomiNic Parker;M;AAA-PBP;506
 Longford Westmeath;Willie Penrose;M;LAB.;4817
 Dublin Central;Cieran Perry;M;NON-P.;1242
 Sligo Leitrim;John Perry;M;F.G.;4403
-Cork South West;Fiona Pettit O'leary;F;NON-P.;423
+Cork South West;Fiona Pettit O''leary;F;NON-P.;423
 Carlow Kilkenny;Ann Phelan;F;LAB.;4391
 Carlow Kilkenny;John Paul Phelan;M;F.G.;7568
 Cork South West;Gillian Powell;F;NON-P.;701

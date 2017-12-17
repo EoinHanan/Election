@@ -22,9 +22,9 @@ import Calculators.PercentageCalculator;
  */
 public class Main {
     public static void main(String args[]) throws FileNotFoundException {
-        createDatabase();
-        //DBReader reader = new DBReader();
-        //reader.readConstituency("Wicklow");
+        //createDatabase();
+        DBReader reader = new DBReader();
+        reader.readConstituency("Wicklow");
     }
     public static void createDatabase()throws FileNotFoundException{
         PartyReader partyReader = new PartyReader("Data/PartyDetails");

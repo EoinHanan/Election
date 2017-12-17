@@ -11,9 +11,17 @@ public class Constituency {
     private int poll2016;
     private int spoiled2016;
 
+
     public Constituency(String name, int candidatesNumber, int seats,int electorate ,int poll, int spoiled){
         this.name = name;
         this.candidatesNumber = candidatesNumber;
+        this.seats = seats;
+        electorate2016 = electorate;
+        poll2016 = poll;
+        spoiled2016 = spoiled;
+    }
+    public Constituency(String name, int seats,int electorate ,int poll, int spoiled){
+        this.name = name;
         this.seats = seats;
         electorate2016 = electorate;
         poll2016 = poll;

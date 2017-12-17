@@ -27,6 +27,17 @@ public class Round {
         this.constituency =constituency;
         this.votes = votes;
     }
+    public Round(int rid, int canid,int conid, int votes, int number, String status){
+        this.number = number;
+        this.rid = rid;
+        this.canid = canid;
+        this.conid = conid;
+        if (status.isEmpty())
+            this.status = "Active";
+        else
+            this.status = status;
+        this.votes = votes;
+    }
     public void setConid (String constituencies[]){
         int id =0;
         boolean found = false;

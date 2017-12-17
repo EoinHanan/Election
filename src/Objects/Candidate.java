@@ -11,21 +11,32 @@ public class Candidate {
     private String party;
     private int votes;
     private String gender;
-    private int canid;
-    private int conid;
+    private int canID;
+    private int conID;
     private int pid;
+    private ArrayList <Round> rounds;
     private ArrayList <Transfer> transfers;
 
-    public Candidate(int canid, String constituency, String name, String gender, String party,int votes){
-        this.canid =canid;
-        this.name = name;
+    public Candidate(int canID, String constituency, String name, String gender, String party,int votes){
+        this.canID =canID;
+        this.name = name.toLowerCase();
         this.constituency = constituency;
         this.gender = gender;
         this.votes = votes;
         this.party=party;
     }
-    public int getCanid(){return canid;}
-    public int getConid(){return conid;}
+
+    public Candidate(int canID, int conID, String name, int pid, String gender, int votes) {
+        this.canID =canID;
+        this.conID = conID;
+        this.name = name;
+        this.pid = pid;
+        this.gender = gender;
+        this.votes = votes;
+    }
+
+    public int getCanid(){return canID;}
+    public int getConid(){return conID;}
     public int getPid(){return pid;}
     public String getName(){
         return name;
@@ -34,6 +45,21 @@ public class Candidate {
     public String getGender(){return gender;}
     public String getParty(){return party;}
     public int getVotes(){return votes;}
+    public void hasRounds(){
+        rounds = new ArrayList<>();
+    }
+    public Round getRound(int i){
+        return rounds.get(i);
+    }
+
+    public void addRound(Round round){
+        rounds.add(round);
+    }
+
+    public int roundSize(){
+        return rounds.size();
+    }
+
 
     public void setPid(String [] parties){
         int id =0;
@@ -59,7 +85,7 @@ public class Candidate {
             }
             //System.out.println(constituency + " Eqauls " + constituencies[i] + " : " + found);
         }
-        conid = id;
+        conID = id;
         //System.out.println(conid);
     }
 }
