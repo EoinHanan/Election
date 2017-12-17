@@ -39,11 +39,11 @@ public class Model {
         System.out.println("Constituency: " + constituency.getName() + "\n");
 
         for (int i =0; i < candidates.size();i++) {
-            System.out.println("Candidate " + i + " : " + candidates.get(i).getName() + "\n");
+            System.out.println("\nCandidate " + i + " : " + candidates.get(i).getName());
 
 
             for (int j =0; j < rounds.get(i).size();j++)
-                System.out.println("Round "+ i + ": "  + rounds.get(i).get(j).getVotes());
+                System.out.println("Round "+ rounds.get(i).get(j).getNumber() + ": "  + rounds.get(i).get(j).getVotes());
         }
 
     }

@@ -2,10 +2,7 @@ import Calculators.Calculator;
 import Calculators.PercentageCalculator;
 import Database.DBConnector;
 import Database.DBReader;
-import Objects.Candidate;
-import Objects.Constituency;
-import Objects.Party;
-import Objects.Round;
+import Objects.*;
 import Reader.CandidateReader;
 import Reader.ConstituencyReader;
 import Reader.PartyReader;
@@ -25,6 +22,8 @@ public class Main {
         //createDatabase();
         DBReader reader = new DBReader();
         reader.readConstituency("Wicklow");
+        Model model = reader.getModel();
+        model.printAll();
     }
     public static void createDatabase()throws FileNotFoundException{
         PartyReader partyReader = new PartyReader("Data/PartyDetails");
@@ -52,9 +51,5 @@ public class Main {
         //connector.writeRounds(rounds);
 
         System.out.print("About to end.");
-    }
-    public void newPrediction(){
-        Scanner in = new Scanner(System.in);
-
     }
 }
